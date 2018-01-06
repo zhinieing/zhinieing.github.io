@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb393;
+  background: #ffffcb;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2641,6 +2641,21 @@ embed {
     vertical-align: top;
   }
 }
+.menu .menu-item .badge {
+  display: inline-block;
+  padding: 1px 4px;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #eee;
+}
+@media (max-width: 767px) {
+  .menu .menu-item .badge {
+    float: right;
+    margin: 0.35em 0 0 0;
+  }
+}
 @media (max-width: 767px) {
   .menu .menu-item br {
     display: none;
@@ -2649,10 +2664,20 @@ embed {
 @media (max-width: 767px) {
   .menu .menu-item a {
     padding: 5px 10px;
+    border-bottom-color: #fff !important;
   }
 }
 .menu .menu-item .fa {
   margin-right: 0;
+}
+.menu-item-active a {
+  border-bottom-color: #222 !important;
+  color: #222;
+}
+@media (max-width: 767px) {
+  .menu-item-active a {
+    border-bottom-color: #fff !important;
+  }
 }
 .site-search form {
   display: none;
