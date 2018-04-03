@@ -84,14 +84,14 @@
 
 <meta name="description" content="sometimes ever, sometimes never.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="categories">
-<meta property="og:url" content="http://yoursite.com/categories/index.html">
+<meta property="og:title" content="tags">
+<meta property="og:url" content="http://yoursite.com/tags/index.html">
 <meta property="og:site_name" content="suyan">
 <meta property="og:description" content="sometimes ever, sometimes never.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-02T08:55:38.579Z">
+<meta property="og:updated_time" content="2018-04-02T08:54:36.618Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="categories">
+<meta name="twitter:title" content="tags">
 <meta name="twitter:description" content="sometimes ever, sometimes never.">
 
 
@@ -124,7 +124,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/categories/"/>
+  <link rel="canonical" href="http://yoursite.com/tags/"/>
 
 
 
@@ -440,7 +440,10 @@
       
 
       
-        <h2 id="AspectJ具体实现"><a href="#AspectJ具体实现" class="headerlink" title="AspectJ具体实现"></a>AspectJ具体实现</h2><p>讲解在Android开发中，如何运用AOP的方式，进行全局切片管理，达到简洁优雅，一劳永逸的效果。<br><a id="more"></a></p>
+        <blockquote>
+<p>如果说，OOP 如果是把问题划分到单个模块的话，那么 AOP 就是把涉及到众多模块的某一类问题进行统一管理。这里通过几个小例子，讲解在 Android 开发中，如何运用 AOP 的方式，进行全局切片管理，达到简洁优雅，一劳永逸的效果。</p>
+</blockquote>
+<a id="more"></a>
 <h2 id="SingleClickAspect，防止View被连续点击出发多次事件"><a href="#SingleClickAspect，防止View被连续点击出发多次事件" class="headerlink" title="SingleClickAspect，防止View被连续点击出发多次事件"></a>SingleClickAspect，防止View被连续点击出发多次事件</h2><p>给点击事件加一个切入点，添加一个注解</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">@Retention</span>(RetentionPolicy.CLASS)</span><br><span class="line"><span class="meta">@Target</span>(ElementType.METHOD)</span><br><span class="line"><span class="keyword">public</span> <span class="meta">@interface</span> SingleClick &#123;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <p>然后编写我们的Aspect类</p>
@@ -678,7 +681,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#AspectJ具体实现"><span class="nav-number">1.</span> <span class="nav-text">AspectJ具体实现</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#SingleClickAspect，防止View被连续点击出发多次事件"><span class="nav-number">2.</span> <span class="nav-text">SingleClickAspect，防止View被连续点击出发多次事件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#CheckLoginAspect-拦截未登录用户的权限"><span class="nav-number">3.</span> <span class="nav-text">CheckLoginAspect 拦截未登录用户的权限</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#MemoryCacheAspect内存缓存切片"><span class="nav-number">4.</span> <span class="nav-text">MemoryCacheAspect内存缓存切片</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#TimeLogAspect-自动打印方法的耗时"><span class="nav-number">5.</span> <span class="nav-text">TimeLogAspect 自动打印方法的耗时</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#SysPermissionAspect运行时权限申请"><span class="nav-number">6.</span> <span class="nav-text">SysPermissionAspect运行时权限申请</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#SingleClickAspect，防止View被连续点击出发多次事件"><span class="nav-number">1.</span> <span class="nav-text">SingleClickAspect，防止View被连续点击出发多次事件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#CheckLoginAspect-拦截未登录用户的权限"><span class="nav-number">2.</span> <span class="nav-text">CheckLoginAspect 拦截未登录用户的权限</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#MemoryCacheAspect内存缓存切片"><span class="nav-number">3.</span> <span class="nav-text">MemoryCacheAspect内存缓存切片</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#TimeLogAspect-自动打印方法的耗时"><span class="nav-number">4.</span> <span class="nav-text">TimeLogAspect 自动打印方法的耗时</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#SysPermissionAspect运行时权限申请"><span class="nav-number">5.</span> <span class="nav-text">SysPermissionAspect运行时权限申请</span></a></li></ol></div>
             
 
           </div>

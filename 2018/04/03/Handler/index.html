@@ -84,14 +84,14 @@
 
 <meta name="description" content="sometimes ever, sometimes never.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="categories">
-<meta property="og:url" content="http://yoursite.com/categories/index.html">
+<meta property="og:title" content="tags">
+<meta property="og:url" content="http://yoursite.com/tags/index.html">
 <meta property="og:site_name" content="suyan">
 <meta property="og:description" content="sometimes ever, sometimes never.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-02T08:55:38.579Z">
+<meta property="og:updated_time" content="2018-04-02T08:54:36.618Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="categories">
+<meta name="twitter:title" content="tags">
 <meta name="twitter:description" content="sometimes ever, sometimes never.">
 
 
@@ -124,7 +124,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/categories/"/>
+  <link rel="canonical" href="http://yoursite.com/tags/"/>
 
 
 
@@ -406,7 +406,7 @@
                 
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
-                <span title="字数统计">2.3k</span>
+                <span title="字数统计">2.4k</span>
               
 
               
@@ -440,10 +440,13 @@
       
 
       
-        <h2 id="Handler-工作流程浅析"><a href="#Handler-工作流程浅析" class="headerlink" title="Handler 工作流程浅析"></a>Handler 工作流程浅析</h2><blockquote>
-<p>异步通信准备 =&gt; 消息入队 =&gt; 消息循环 =&gt; 消息处理</p>
+        <blockquote>
+<p>Handler 是 Android 消息机制的上层接口，用来解决线程之间的通信。接下来将介绍一下 Handler 的运行机制、Handler所附带的 MessageQueue 和 Looper 的工作过程。</p>
 </blockquote>
 <a id="more"></a>
+<h2 id="Handler-工作流程浅析"><a href="#Handler-工作流程浅析" class="headerlink" title="Handler 工作流程浅析"></a>Handler 工作流程浅析</h2><blockquote>
+<p>异步通信准备 =&gt; 消息入队 =&gt; 消息循环 =&gt; 消息处理</p>
+</blockquote>
 <ol>
 <li>异步通信准备<br>假定是在主线程创建 Handler，则会直接在主线程中创建处理器对象 <code>Looper</code>、消息队列对象 <code>MessageQueue</code> 和 Handler 对象。需要注意的是，<code>Looper</code> 和 <code>MessageQueue</code> 均是属于其 <strong>创建线程</strong> 的。<code>Looper</code> 对象的创建一般通过 <code>Looper.prepareMainLooper()</code> 和 <code>Looper.prepare()</code> 两个方法，而创建 <code>Looper</code> 对象的同时，将会自动创建 <code>MessageQueue</code>，创建好 <code>MessageQueue</code> 后，<code>Looper</code> 将自动进入消息循环。此时，<code>Handler</code> 自动绑定了主线程的 <code>Looper</code> 和 <code>MessageQueue</code>。</li>
 <li>消息入队<br>工作线程通过 <code>Handler</code> 发送消息 <code>Message</code> 到消息队列 <code>MessageQueue</code> 中，消息内容一般是 UI 操作。发送消息一般都是通过 <code>Handler.sendMessage(Message msg)</code> 和 <code>Handler.post(Runnabe r)</code> 两个方法来进行的。而入队一般是通过 <code>MessageQueue.enqueueeMessage(Message msg,long when)</code> 来处理。</li>

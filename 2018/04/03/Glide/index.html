@@ -84,14 +84,14 @@
 
 <meta name="description" content="sometimes ever, sometimes never.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="categories">
-<meta property="og:url" content="http://yoursite.com/categories/index.html">
+<meta property="og:title" content="tags">
+<meta property="og:url" content="http://yoursite.com/tags/index.html">
 <meta property="og:site_name" content="suyan">
 <meta property="og:description" content="sometimes ever, sometimes never.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-02T08:55:38.579Z">
+<meta property="og:updated_time" content="2018-04-02T08:54:36.618Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="categories">
+<meta name="twitter:title" content="tags">
 <meta name="twitter:description" content="sometimes ever, sometimes never.">
 
 
@@ -124,7 +124,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/categories/"/>
+  <link rel="canonical" href="http://yoursite.com/tags/"/>
 
 
 
@@ -406,7 +406,7 @@
                 
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
-                <span title="字数统计">3.3k</span>
+                <span title="字数统计">3.4k</span>
               
 
               
@@ -440,12 +440,16 @@
       
 
       
-        <h2 id="with方法"><a href="#with方法" class="headerlink" title="with方法"></a>with方法</h2><p>根据传入的context分为</p>
+        <blockquote>
+<p>Glide 是 Google 推荐的一套快速高效的图片加载框架，功能强大且使用方便。它在使用上大致分为 with、load、into 三个步骤，接下来将分别围绕这三个方法来解析。</p>
+</blockquote>
+<a id="more"></a>
+<h2 id="with方法"><a href="#with方法" class="headerlink" title="with方法"></a>with方法</h2><p>根据传入的context分为</p>
 <ol>
 <li>Application对象，和应用程序的生命周期同步</li>
 <li>非Application对象，使用隐藏Fragment（RequestManagerFragment）得到生命周期</li>
 </ol>
-<p>with方法返回了一个RequestManager对象。<br><a id="more"></a></p>
+<p>with方法返回了一个RequestManager对象。</p>
 <h2 id="load方法"><a href="#load方法" class="headerlink" title="load方法"></a>load方法</h2><p>返回默认DrawableTypeRequest对象。指定asBitmap、asGif时分别返回BitmapTypeRequest对象、GifTypeRequest对象。</p>
 <h2 id="into方法"><a href="#into方法" class="headerlink" title="into方法"></a>into方法</h2><p>RequsetBuilder的into方法中创建了buildRequest，创建请求，调用了Engine的load方法，最后设置target。</p>
 <h3 id="Engine"><a href="#Engine" class="headerlink" title="Engine"></a>Engine</h3><blockquote>
