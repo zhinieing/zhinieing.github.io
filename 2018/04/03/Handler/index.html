@@ -84,14 +84,14 @@
 
 <meta name="description" content="sometimes ever, sometimes never.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="tags">
-<meta property="og:url" content="http://yoursite.com/tags/index.html">
+<meta property="og:title" content="categories">
+<meta property="og:url" content="http://yoursite.com/categories/index.html">
 <meta property="og:site_name" content="suyan">
 <meta property="og:description" content="sometimes ever, sometimes never.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-02T08:54:36.618Z">
+<meta property="og:updated_time" content="2018-04-02T08:55:38.579Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="tags">
+<meta name="twitter:title" content="categories">
 <meta name="twitter:description" content="sometimes ever, sometimes never.">
 
 
@@ -124,7 +124,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/tags/"/>
+  <link rel="canonical" href="http://yoursite.com/categories/"/>
 
 
 
@@ -448,7 +448,7 @@
 <p>异步通信准备 =&gt; 消息入队 =&gt; 消息循环 =&gt; 消息处理</p>
 </blockquote>
 <ol>
-<li>异步通信准备<br>假定是在主线程创建 Handler，则会直接在主线程中创建处理器对象 <code>Looper</code>、消息队列对象 <code>MessageQueue</code> 和 Handler 对象。需要注意的是，<code>Looper</code> 和 <code>MessageQueue</code> 均是属于其 <strong>创建线程</strong> 的。<code>Looper</code> 对象的创建一般通过 <code>Looper.prepareMainLooper()</code> 和 <code>Looper.prepare()</code> 两个方法，而创建 <code>Looper</code> 对象的同时，将会自动创建 <code>MessageQueue</code>，创建好 <code>MessageQueue</code> 后，<code>Looper</code> 将自动进入消息循环。此时，<code>Handler</code> 自动绑定了主线程的 <code>Looper</code> 和 <code>MessageQueue</code>。</li>
+<li>异步通信准备<br>假定是在主线程创建<code>Handler</code>，则会直接在主线程中创建处理器对象 <code>Looper</code>、消息队列对象 <code>MessageQueue</code> 和 Handler 对象。需要注意的是，<code>Looper</code> 和 <code>MessageQueue</code> 均是属于其 <strong>创建线程</strong> 的。<code>Looper</code> 对象的创建一般通过 <code>Looper.prepareMainLooper()</code> 和 <code>Looper.prepare()</code> 两个方法，而创建 <code>Looper</code> 对象的同时，将会自动创建 <code>MessageQueue</code>，创建好 <code>MessageQueue</code> 后，<code>Looper</code> 将自动进入消息循环。此时，<code>Handler</code> 自动绑定了主线程的 <code>Looper</code> 和 <code>MessageQueue</code>。</li>
 <li>消息入队<br>工作线程通过 <code>Handler</code> 发送消息 <code>Message</code> 到消息队列 <code>MessageQueue</code> 中，消息内容一般是 UI 操作。发送消息一般都是通过 <code>Handler.sendMessage(Message msg)</code> 和 <code>Handler.post(Runnabe r)</code> 两个方法来进行的。而入队一般是通过 <code>MessageQueue.enqueueeMessage(Message msg,long when)</code> 来处理。</li>
 <li>消息循环<br>主要分为「消息出队」和「消息分发」两个步骤，<code>Looper</code> 会通过循环 <strong>取出</strong> 消息队列 <code>MessageQueue</code> 里面的消息 <code>Message</code>，并 <strong>分发</strong> 到创建该消息的处理者 <code>Handler</code>。如果消息循环过程中，消息队列 <code>MessageQueue</code> 为空队列的话，则线程阻塞。</li>
 <li>消息处理 <code>Handler</code> 接收到 <code>Looper</code> 发来的消息，开始进行处理。</li>
@@ -464,11 +464,11 @@
 <li><code>Looper</code>的<code>loop</code>方法循环调用<code>MessageQueue.next()</code>取出消息，通过<code>msg.target</code>获取目标<code>Handler</code>，并且调用<code>Handler</code>的<code>dispatchMessage</code>来处理消息</li>
 <li>在<code>dispatchMessage</code>中，分别判断<code>msg.callback</code>也就是post方法、<code>mCallback</code>也就是构造方法传入的<code>Callback</code>不为空就执行他们的回调，如果都为空就执行我们最常用重写的<code>handleMessage</code>。</li>
 </ul>
-<h2 id="最后谈谈handler的内存泄露问题"><a href="#最后谈谈handler的内存泄露问题" class="headerlink" title="最后谈谈handler的内存泄露问题"></a>最后谈谈handler的内存泄露问题</h2><p>当使用内部类（包括匿名类）来创建Handler的时候，Handler对象会隐式地持有Activity的引用，即可能会造成内存泄漏。</p>
+<h2 id="最后谈谈-Handler-的内存泄露问题"><a href="#最后谈谈-Handler-的内存泄露问题" class="headerlink" title="最后谈谈 Handler 的内存泄露问题"></a>最后谈谈 Handler 的内存泄露问题</h2><p>当使用内部类（包括匿名类）来创建<code>Handler</code>的时候，<code>Handler</code>对象会隐式地持有 Activity 的引用，即可能会造成内存泄漏。</p>
 <p>解决方法：静态内部类 + 弱引用。</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">static</span> <span class="class"><span class="keyword">class</span> <span class="title">MyHandler</span> <span class="keyword">extends</span> <span class="title">Handler</span> </span>&#123;</span><br><span class="line">    WeakReference&lt;Activity &gt; mActivityReference;</span><br><span class="line">    MyHandler(Activity activity) &#123;</span><br><span class="line">        mActivityReference= <span class="keyword">new</span> WeakReference&lt;Activity&gt;(activity);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="meta">@Override</span></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">handleMessage</span><span class="params">(Message msg)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">final</span> Activity activity = mActivityReference.get();</span><br><span class="line">        <span class="keyword">if</span> (activity != <span class="keyword">null</span>) &#123;</span><br><span class="line">            mImageView.setImageBitmap(mBitmap);</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h2 id="关于HandlerThread和IntentService"><a href="#关于HandlerThread和IntentService" class="headerlink" title="关于HandlerThread和IntentService"></a>关于HandlerThread和IntentService</h2><p><strong>HandlerThread</strong>是一种可以使用Handler的Thread。普通的Thread主要用于在run方法中执行一个耗时任务，而HandlerThread在内部创建了消息队列，外界需要通过Handler的消息方式来通知其执行一个具体的任务。</p>
-<p><strong>IntentService</strong>封装了HandlerThread和Handler。</p>
+<h2 id="关于-HandlerThread-和-IntentService"><a href="#关于-HandlerThread-和-IntentService" class="headerlink" title="关于 HandlerThread 和 IntentService"></a>关于 HandlerThread 和 IntentService</h2><p><code>**HandlerThread**</code>是一种可以使用<code>Handler</code>的 Thread。普通的 Thread 主要用于在 run 方法中执行一个耗时任务，而<code>HandlerThread</code>在内部创建了消息队列，外界需要通过<code>Handler</code>的消息方式来通知其执行一个具体的任务。</p>
+<p><code>**IntentService**</code>封装了<code>HandlerThread</code>和<code>Handler</code>。</p>
 <p>工作流程如下：</p>
 <ol>
 <li>在<code>onCreate</code>方法中创建了一个<code>HandlerThread</code>，然后使用它的<code>Looper</code>来构造一个<code>Handler</code>对象<code>mServiceHandler</code>。</li>
@@ -507,8 +507,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/04/03/Android性能优化/" rel="next" title="Android性能优化">
-                <i class="fa fa-chevron-left"></i> Android性能优化
+              <a href="/2018/04/03/Android 性能优化/" rel="next" title="Android 性能优化">
+                <i class="fa fa-chevron-left"></i> Android 性能优化
               </a>
             
           </div>
@@ -600,7 +600,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">12</span>
+                    <span class="site-state-item-count">15</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
@@ -622,7 +622,7 @@
                 
                 <div class="site-state-item site-state-tags">
                   <a href="/tags/index.html">
-                    <span class="site-state-item-count">7</span>
+                    <span class="site-state-item-count">8</span>
                     <span class="site-state-item-name">标签</span>
                   </a>
                 </div>
@@ -697,7 +697,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Handler-工作流程浅析"><span class="nav-number">1.</span> <span class="nav-text">Handler 工作流程浅析</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#对于-Handler-，一些需要注意的地方"><span class="nav-number">2.</span> <span class="nav-text">对于 Handler ，一些需要注意的地方</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#消息机制具体流程分析"><span class="nav-number">3.</span> <span class="nav-text">消息机制具体流程分析</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#最后谈谈handler的内存泄露问题"><span class="nav-number">4.</span> <span class="nav-text">最后谈谈handler的内存泄露问题</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#关于HandlerThread和IntentService"><span class="nav-number">5.</span> <span class="nav-text">关于HandlerThread和IntentService</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Handler-工作流程浅析"><span class="nav-number">1.</span> <span class="nav-text">Handler 工作流程浅析</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#对于-Handler-，一些需要注意的地方"><span class="nav-number">2.</span> <span class="nav-text">对于 Handler ，一些需要注意的地方</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#消息机制具体流程分析"><span class="nav-number">3.</span> <span class="nav-text">消息机制具体流程分析</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#最后谈谈-Handler-的内存泄露问题"><span class="nav-number">4.</span> <span class="nav-text">最后谈谈 Handler 的内存泄露问题</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#关于-HandlerThread-和-IntentService"><span class="nav-number">5.</span> <span class="nav-text">关于 HandlerThread 和 IntentService</span></a></li></ol></div>
             
 
           </div>
@@ -729,7 +729,7 @@
       <i class="fa fa-area-chart"></i>
     </span>
     
-    <span title="站点总字数">70k</span>
+    <span title="站点总字数">101k</span>
   
 
   
@@ -738,7 +738,7 @@
       <i class="fa fa-coffee"></i>
     </span>
     
-    <span title="站点总阅读次数">1:10</span>
+    <span title="站点总阅读次数">1:41</span>
   
 </div>
 

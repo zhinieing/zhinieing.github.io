@@ -84,14 +84,14 @@
 
 <meta name="description" content="sometimes ever, sometimes never.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="tags">
-<meta property="og:url" content="http://yoursite.com/tags/index.html">
+<meta property="og:title" content="categories">
+<meta property="og:url" content="http://yoursite.com/categories/index.html">
 <meta property="og:site_name" content="suyan">
 <meta property="og:description" content="sometimes ever, sometimes never.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-02T08:54:36.618Z">
+<meta property="og:updated_time" content="2018-04-02T08:55:38.579Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="tags">
+<meta name="twitter:title" content="categories">
 <meta name="twitter:description" content="sometimes ever, sometimes never.">
 
 
@@ -124,7 +124,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/tags/"/>
+  <link rel="canonical" href="http://yoursite.com/categories/"/>
 
 
 
@@ -406,7 +406,7 @@
                 
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
-                <span title="字数统计">447</span>
+                <span title="字数统计">457</span>
               
 
               
@@ -441,11 +441,11 @@
 
       
         <blockquote>
-<p>OkHttp是一个高效的HTTP库:</p>
+<p>OkHttp 是一个高效的 HTTP 库:</p>
 <ul>
-<li>支持 SPDY ，共享同一个Socket来处理同一个服务器的所有请求</li>
-<li>如果SPDY不可用，则通过连接池来减少请求延时</li>
-<li>无缝的支持GZIP来减少数据流量</li>
+<li>支持 SPDY ，共享同一个 Socke t来处理同一个服务器的所有请求</li>
+<li>如果 SPDY 不可用，则通过连接池来减少请求延时</li>
+<li>无缝的支持 GZIP 来减少数据流量</li>
 <li>缓存响应数据来减少重复的网络请求</li>
 </ul>
 </blockquote>
@@ -453,12 +453,12 @@
 <h2 id="总体设计"><a href="#总体设计" class="headerlink" title="总体设计"></a>总体设计</h2><p><img src="../OkHttp/image-201804020012074.png" alt="mage-20180402001207"></p>
 <h2 id="请求流程图"><a href="#请求流程图" class="headerlink" title="请求流程图"></a>请求流程图</h2><p><img src="../OkHttp/image-201804020015112.png" alt="mage-20180402001511"></p>
 <blockquote>
-<p>OkHttpClient内部缓存有Cache和InternalCache。</p>
+<p><code>OkHttpClient</code>内部缓存有<code>Cache</code>和<code>InternalCache</code>。</p>
 </blockquote>
 <ul>
-<li>先创建OkHttpClient的实例，然后通过Request.Builder()创建Request对象</li>
-<li>通过Diapatcher不断从RequestQueue中取出请求（Call），同步请求通过Call.execute()直接返回当前的Response，而异步请求会把当前的请求Call.enqueue添加（AsyncCall）到请求队列中，并通过回调（Callback） 的方式来获取最后结果。</li>
-<li>同步请求和异步请求最后都会通过拦截器链发起请求，根据是否已缓存调用Cache或 Network这两类数据获取接口之一，从内存缓存或是服务器取得请求的数据。</li>
+<li>先创建<code>OkHttpClient</code>的实例，然后通过<code>Request.Builder()</code>创建Request对象</li>
+<li>通过<code>Diapatcher</code>不断从<code>RequestQueue</code>中取出请求（<code>Call</code>），同步请求通过<code>Call.execute()</code>直接返回当前的<code>Response</code>，而异步请求会把当前的请求<code>Call.enqueue()</code>添加（<code>AsyncCall</code>）到请求队列中，并通过回调（<code>Callback</code>） 的方式来获取最后结果。</li>
+<li>同步请求和异步请求最后都会通过拦截器链发起请求，根据是否已缓存调用<code>Cache</code>或<code>Network</code>这两类数据获取接口之一，从内存缓存或是服务器取得请求的数据。</li>
 </ul>
 
       
@@ -585,7 +585,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">12</span>
+                    <span class="site-state-item-count">15</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
@@ -607,7 +607,7 @@
                 
                 <div class="site-state-item site-state-tags">
                   <a href="/tags/index.html">
-                    <span class="site-state-item-count">7</span>
+                    <span class="site-state-item-count">8</span>
                     <span class="site-state-item-name">标签</span>
                   </a>
                 </div>
@@ -714,7 +714,7 @@
       <i class="fa fa-area-chart"></i>
     </span>
     
-    <span title="站点总字数">70k</span>
+    <span title="站点总字数">101k</span>
   
 
   
@@ -723,7 +723,7 @@
       <i class="fa fa-coffee"></i>
     </span>
     
-    <span title="站点总阅读次数">1:10</span>
+    <span title="站点总阅读次数">1:41</span>
   
 </div>
 

@@ -84,14 +84,14 @@
 
 <meta name="description" content="sometimes ever, sometimes never.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="tags">
-<meta property="og:url" content="http://yoursite.com/tags/index.html">
+<meta property="og:title" content="categories">
+<meta property="og:url" content="http://yoursite.com/categories/index.html">
 <meta property="og:site_name" content="suyan">
 <meta property="og:description" content="sometimes ever, sometimes never.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-02T08:54:36.618Z">
+<meta property="og:updated_time" content="2018-04-02T08:55:38.579Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="tags">
+<meta name="twitter:title" content="categories">
 <meta name="twitter:description" content="sometimes ever, sometimes never.">
 
 
@@ -124,7 +124,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/tags/"/>
+  <link rel="canonical" href="http://yoursite.com/categories/"/>
 
 
 
@@ -406,7 +406,7 @@
                 
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
-                <span title="字数统计">1.4k</span>
+                <span title="字数统计">1.5k</span>
               
 
               
@@ -420,7 +420,7 @@
                 
                   <span class="post-meta-item-text">阅读时长 &asymp;</span>
                 
-                <span title="阅读时长">0:01</span>
+                <span title="阅读时长">0:02</span>
               
             </div>
           
@@ -444,37 +444,37 @@
 <p>Android AOP 就是通过预编译方式和运行期动态代理实现程序功能的统一维护的一种技术。利用 AOP 可以对业务逻辑的各个部分进行隔离，从而使得业务逻辑各部分之间的耦合度降低，提高程序的可重用性，提高开发效率。</p>
 </blockquote>
 <a id="more"></a>
-<h2 id="Android-AOP-之-APT、AspectJ、Javasisst"><a href="#Android-AOP-之-APT、AspectJ、Javasisst" class="headerlink" title="Android AOP 之 APT、AspectJ、Javasisst"></a>Android AOP 之 APT、AspectJ、Javasisst</h2><h2 id="APT"><a href="#APT" class="headerlink" title="APT"></a>APT</h2><p>代表框架：DataBinding,Dagger2, ButterKnife, EventBus3 、DBFlow、AndroidAnnotation</p>
-<p>APT(Annotation Processing Tool)定义编译期的注解，再通过继承Proccesor实现代码生成逻辑，实现了编译期生成代码的逻辑。</p>
+<h2 id="Android-AOP-之-APT、AspectJ、Javasisst"><a href="#Android-AOP-之-APT、AspectJ、Javasisst" class="headerlink" title="Android AOP 之 APT、AspectJ、Javasisst"></a>Android AOP 之 APT、AspectJ、Javasisst</h2><h2 id="APT"><a href="#APT" class="headerlink" title="APT"></a>APT</h2><p>代表框架：DataBinding、Dagger2、ButterKnife、EventBus3、DBFlow、AndroidAnnotation</p>
+<p>APT(<code>Annotation Processing Tool</code>)定义编译期的注解，再通过继承<code>Proccesor</code>实现代码生成逻辑，实现了编译期生成代码的逻辑。</p>
 <p>使用姿势 ：</p>
 <ol>
-<li>建立一个java的Module,写一个继承AbstractProcessor的类。</li>
+<li>建立一个 java 的 Module，写一个继承<code>AbstractProcessor</code>的类。</li>
 <li>在工具类里处理我们自定义的注解、生成代码。</li>
-<li>在Gradle中添加 dependencies annotationProcessor project(‘:apt’)。</li>
+<li>在 Gradle 中添加<code>dependencies annotationProcessor project(&#39;:apt&#39;)</code>。</li>
 </ol>
 <h2 id="AspectJ"><a href="#AspectJ" class="headerlink" title="AspectJ"></a>AspectJ</h2><p>代表框架： Hugo(Jake Wharton)</p>
-<p><strong>AspectJ</strong>支持编译期和加载时代码注入，在开始之前，我们先看看需要了解的词汇：</p>
+<p><strong>AspectJ</strong> 支持编译期和加载时代码注入，在开始之前，我们先看看需要了解的词汇：</p>
 <p><strong>Advice（通知）:</strong> 典型的 Advice 类型有 before、after 和 around，分别表示在目标方法执行之前、执行后和完全替代目标方法执行的代码。</p>
 <p><strong>Joint point（连接点）:</strong> 程序中可能作为代码注入目标的特定的点和入口。</p>
 <p><strong>Pointcut（切入点）:</strong> 告诉代码注入工具，在何处注入一段特定代码的表达式。</p>
-<p><strong>Aspect（切面）:</strong> Pointcut 和 Advice 的组合看做切面。例如，在本例中通过定义一个 pointcut 和给定恰当的advice，添加一个了内存缓存的切面。</p>
+<p><strong>Aspect（切面）:</strong> Pointcut 和 Advice 的组合看做切面。例如，在本例中通过定义一个 pointcut 和给定恰当的 advice，添加一个了内存缓存的切面。</p>
 <p><strong>Weaving（织入）:</strong> 注入代码（advices）到目标位置（joint points）的过程。</p>
 <p><img src="../Android AOP/image-201803310032188.png" alt="mage-20180331003218"></p>
 <p>使用姿势：</p>
 <ol>
-<li>建立一个android lib Module，定义一个切片，处理自定义注解，和添加切片逻辑</li>
-<li>自定义一个gradle插件，使用 AspectJ 的编译器（ajc，一个java编译器的扩展),对所有受 aspect 影响的类进行织入，在 gradle 的编译 task 中增加额外配置，使之能正确编译运行。</li>
-<li>在grade中apply plugin:com.app.plugin.AspectjPlugin</li>
+<li>建立一个 android lib Module，定义一个切片，处理自定义注解，和添加切片逻辑。</li>
+<li>自定义一个 gradle 插件，使用 AspectJ 的编译器（ajc，一个java编译器的扩展)，对所有受 aspect 影响的类进行织入，在 gradle 的编译 task 中增加额外配置，使之能正确编译运行。</li>
+<li>在 Gradle 中添加<code>apply plugin:com.app.plugin.AspectjPlugin</code>。</li>
 </ol>
-<h2 id="Javassist"><a href="#Javassist" class="headerlink" title="Javassist"></a>Javassist</h2><p>代表框架：热修复框架HotFix 、Savior（InstantRun）等</p>
-<p>Javassist作用是在编译器间修改class文件，可以让我们直接修改编译后的class二进制代码，首先我们得知道什么时候编译完成，并且我们要赶在class文件被转化为dex文件之前去修改。使用Transform能很方便地实现，Tranfrom一经注册便会自动添加到Task执行序列中，并且正好是项目被打包成dex之前。</p>
+<h2 id="Javassist"><a href="#Javassist" class="headerlink" title="Javassist"></a>Javassist</h2><p>代表框架：热修复框架 HotFix 、Savior（InstantRun）等</p>
+<p>Javassist 作用是在编译器间修改 class 文件，可以让我们直接修改编译后的 class 二进制代码，首先我们得知道什么时候编译完成，并且我们要赶在 class 文件被转化为 dex 文件之前去修改。使用<code>Transform</code>能很方便地实现，<code>Tranfrom</code>一经注册便会自动添加到 Task 执行序列中，并且正好是项目被打包成 dex 之前。</p>
 <p>使用姿势：</p>
 <ol>
-<li>定义一个buildSrc module添加自定义Plugin</li>
-<li>自定义Transform</li>
-<li>在Transform里处理Task，通过inputs拿到一些东西，处理完毕之后就输出outputs，而下一个Task的inputs则是上一个Task的outputs。</li>
-<li>使用Javassist操作字节码，添加新的逻辑或者修改原有逻辑</li>
-<li>在grade中apply plugin:com.app.plugin.MyPlugin</li>
+<li>定义一个 buildSrc module 添加自定义 Plugin。</li>
+<li>自定义<code>Transform</code>。</li>
+<li>在<code>Transform</code>里处理 Task，通过 inputs 拿到一些东西，处理完毕之后就输出 outputs，而下一个 Task 的 inputs 则是上一个 Task 的 outputs。</li>
+<li>使用 Javassist 操作字节码，添加新的逻辑或者修改原有逻辑。</li>
+<li>在 Gradle 中添加<code>apply plugin:com.app.plugin.MyPlugin</code>。</li>
 </ol>
 
       
@@ -601,7 +601,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">12</span>
+                    <span class="site-state-item-count">15</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
@@ -623,7 +623,7 @@
                 
                 <div class="site-state-item site-state-tags">
                   <a href="/tags/index.html">
-                    <span class="site-state-item-count">7</span>
+                    <span class="site-state-item-count">8</span>
                     <span class="site-state-item-name">标签</span>
                   </a>
                 </div>
@@ -730,7 +730,7 @@
       <i class="fa fa-area-chart"></i>
     </span>
     
-    <span title="站点总字数">70k</span>
+    <span title="站点总字数">101k</span>
   
 
   
@@ -739,7 +739,7 @@
       <i class="fa fa-coffee"></i>
     </span>
     
-    <span title="站点总阅读次数">1:10</span>
+    <span title="站点总阅读次数">1:41</span>
   
 </div>
 

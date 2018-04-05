@@ -84,14 +84,14 @@
 
 <meta name="description" content="sometimes ever, sometimes never.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="tags">
-<meta property="og:url" content="http://yoursite.com/tags/index.html">
+<meta property="og:title" content="categories">
+<meta property="og:url" content="http://yoursite.com/categories/index.html">
 <meta property="og:site_name" content="suyan">
 <meta property="og:description" content="sometimes ever, sometimes never.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-02T08:54:36.618Z">
+<meta property="og:updated_time" content="2018-04-02T08:55:38.579Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="tags">
+<meta name="twitter:title" content="categories">
 <meta name="twitter:description" content="sometimes ever, sometimes never.">
 
 
@@ -124,13 +124,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/tags/"/>
+  <link rel="canonical" href="http://yoursite.com/categories/"/>
 
 
 
 
 
-  <title>Android四大组件 | suyan</title>
+  <title>Android 性能优化 | suyan</title>
   
 
 
@@ -325,7 +325,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/02/Android四大组件/">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/04/03/Android 性能优化/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="ming peng">
@@ -342,7 +342,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">Android四大组件</h1>
+          <h1 class="post-title" itemprop="name headline">Android 性能优化</h1>
         
 
         <div class="post-meta">
@@ -354,7 +354,7 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-04-02T15:40:38+08:00">2018-04-02</time>
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-04-03T13:12:21+08:00">2018-04-03</time>
             
 
             
@@ -375,8 +375,8 @@
               
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/源码分析/" itemprop="url" rel="index">
-                    <span itemprop="name">源码分析</span>
+                  <a href="/categories/性能优化/" itemprop="url" rel="index">
+                    <span itemprop="name">性能优化</span>
                   </a>
                 </span>
 
@@ -406,7 +406,7 @@
                 
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
-                <span title="字数统计">3.5k</span>
+                <span title="字数统计">365</span>
               
 
               
@@ -420,7 +420,7 @@
                 
                   <span class="post-meta-item-text">阅读时长 &asymp;</span>
                 
-                <span title="阅读时长">0:04</span>
+                <span title="阅读时长">0:01</span>
               
             </div>
           
@@ -441,71 +441,26 @@
 
       
         <blockquote>
-<p>Android 系统对四大组件的过程进行了很大程度的封装，本文侧重于对四大组件工作过程的分析，通过分析他们的工作过程理解系统内部运行机制，加深我们对 Android 整体系统结构的认识。</p>
+<p>本文主要介绍了一些 Android 的性能优化方法和程序设计的思想，在日常开发中经常使用，将有助于提高 Android 程序的性能，提升用户体验。</p>
 </blockquote>
 <a id="more"></a>
-<p><strong>Tips：</strong></p>
-<ol>
-<li>除了<code>BroadcastReceiver</code>，其他三种组件都必须<code>AndroidManifest</code>中注册</li>
-<li>除了<code>ContentProvider</code>，其他三种组件需要借助<code>Intent</code></li>
+<h2 id="布局优化"><a href="#布局优化" class="headerlink" title="布局优化"></a>布局优化</h2><p>使用<code>&lt;include&gt;、&lt;merge&gt;、&lt;ViewStub&gt;</code>标签</p>
+<h2 id="绘制优化"><a href="#绘制优化" class="headerlink" title="绘制优化"></a>绘制优化</h2><p>不要在 onDraw 方法中创建新的对象和做耗时的任务</p>
+<h2 id="内存泄露优化"><a href="#内存泄露优化" class="headerlink" title="内存泄露优化"></a>内存泄露优化</h2><ol>
+<li>静态变量导致的内存泄露</li>
+<li>单例模式导致的内存泄露</li>
+<li>属性动画及各种连接没有关闭导致的内存泄露</li>
+<li>非静态内部类导致的内存泄露</li>
 </ol>
-<h2 id="Activity启动过程"><a href="#Activity启动过程" class="headerlink" title="Activity启动过程"></a>Activity启动过程</h2><ul>
-<li><code>startActivity</code>方法有好几种重载方式，但最终都会调用<code>startActivityForResult</code>方法，在其中调用了<code>Instrumentation</code>的<code>execStartActivity</code>方法。</li>
-<li>在<code>Instrumentation</code>的<code>execStartActivity</code>方法中先通过<code>ActivityManagerNative.getDefault</code>得到AMS对象，调用其<code>startActivity</code>方法，最后执行<code>checkStartActivityResult</code>来检查启动Activity的结果。</li>
-<li><code>ActivityManagerService</code>调用<code>ActivityStarter.startActivityMayWait</code>。经过一系列复杂的调用，收集并记录Activity的启动信息，调整ActivityStack(让栈顶的Activity进入pause状态)。</li>
-<li>最后在<code>ActivityStackSupervisor</code>的<code>realStartActivityLocked</code>方法调用<code>app.thread.scheduleLaunchActivity</code>方法。也就是说，<code>ActivityManagerService</code>调用<code>ApplicationThread</code>的<code>scheduleLaunchActivity</code>接口方法，在其中通过Handler发送了一个<code>LAUNCH_ACTIVITY</code>的消息。</li>
-<li>在Handler的<code>handlerMessage</code>方法中调用了<code>ActivityThread</code>的<code>handlerLaunchActivity</code>方法，在其中又执行了<code>performLaunchActivity</code>方法。</li>
-<li><code>performLaunchActivity</code>方法主要完成了如下几件事：<ol>
-<li>从<code>ActivityClientRecord</code>中获取带启动的Activity的组件信息</li>
-<li>通过<code>Instrumentation</code>的<code>newActivity</code>方法使用类加载器创建Activity对象</li>
-<li>通过<code>LoadedApk</code>的<code>makeApplication</code>方法来尝试创建Application对象</li>
-<li>创建<code>ContextImpl</code>对象并通过Activity的attach方法来完成一些重要数据的初始化</li>
-<li>调用Activity的onCreate方法</li>
-</ol>
-</li>
-<li>最终执行ActivityThread的<code>handlerResumeActivity</code>方法，然后调用 Activity 的 onResume 方法和makeVisible 方法，把 decorView 添加到 WindowManage。</li>
-</ul>
-<h2 id="Service启动过程"><a href="#Service启动过程" class="headerlink" title="Service启动过程"></a>Service启动过程</h2><ul>
-<li>Service的启动过程从<code>ContextWrapper</code>的<code>startService</code>开始，调用了<code>ContextImpl</code>的<code>startService</code>，在其中执行了<code>startServiceCommon</code>方法。</li>
-<li><code>startServiceCommon</code>方法中先通过<code>ActivityManagerNative.getDefault</code>得到AMS对象，调用其<code>startService</code>方法，经过一系列复杂的调用，最后在<code>realStartServiceLocked</code>方法调用<code>app.thread.scheduleCreateService</code>方法。也就是说，<code>ActivityManagerService</code>调用<code>ApplicationThread</code>的<code>scheduleCreateService</code>接口方法，在其中通过Handler发送了一个<code>CREATE_SERVICE</code>的消息。</li>
-<li>在Handler的<code>handlerMessage</code>方法中调用了<code>ActivityThread</code>的<code>handlerCreateService</code>方法。<ol>
-<li>首先通过类加载器创建Service对象</li>
-<li>尝试创建Application对象</li>
-<li>创建<code>ContextImpl</code>对象并通过Service的attach方法来完成一些重要数据的初始化</li>
-<li>调用Service的onCreate方法</li>
-</ol>
-</li>
-<li>最终执行ActivityThread的<code>handlerServiceArgs</code>方法调用Service的<code>onStartCommand</code>方法。</li>
-</ul>
-<h2 id="Service绑定过程"><a href="#Service绑定过程" class="headerlink" title="Service绑定过程"></a>Service绑定过程</h2><ul>
-<li>Service的绑定过程从<code>ContextWrapper</code>的<code>bindService</code>开始，调用了<code>ContextImpl</code>的<code>bindService</code>，在其中执行了<code>bindServiceCommon</code>方法。</li>
-<li><code>bindServiceCommon</code>方法中先通过<code>ActivityManagerNative.getDefault</code>得到AMS对象，调用其<code>bindService</code>方法，经过一系列复杂的调用，最后在<code>realStartServiceLocked</code>方法调用<code>app.thread.scheduleBindService</code>方法。也就是说，<code>ActivityManagerService</code>调用<code>ApplicationThread</code>的<code>scheduleBindService</code>接口方法，在其中通过Handler发送了一个<code>BIND_SERVICE</code>的消息。</li>
-<li>在Handler的<code>handlerMessage</code>方法中调用了<code>ActivityThread</code>的<code>handlerBindService</code>方法。<ol>
-<li>首先Service的token取出Service对象</li>
-<li>调用Service的onBind方法</li>
-<li>调用AMS的<code>publishService</code>通知客户端成功连接Service</li>
-</ol>
-</li>
-</ul>
-<h2 id="BroadcastReceiver工作过程"><a href="#BroadcastReceiver工作过程" class="headerlink" title="BroadcastReceiver工作过程"></a>BroadcastReceiver工作过程</h2><p><strong>广播的注册过程</strong></p>
-<p><strong>静态注册</strong>：在<code>AndroidManifest</code>中注册，是由PMS来完成整个注册过程的。<br><strong>动态注册</strong>：从<code>ContextWrapper</code>的<code>registerReceiver</code>开始，调用了<code>ContextImpl</code>的<code>registerReceiver</code>，在其中执行了<code>registerReceiverInternal</code>方法。通过<code>ActivityManagerNative.getDefault</code>得到AMS对象，调用其<code>registerReceiver</code>方法来完成注册。</p>
-<p><strong>广播的发送和接受过程</strong></p>
-<ul>
-<li>从<code>ContextWrapper</code>的<code>sendBroadcast</code>开始，调用了<code>ContextImpl</code>的<code>sendBroadcast</code>方法，通过<code>ActivityManagerNative.getDefault</code>得到AMS对象，调用其<code>broadcastIntent</code>方法。</li>
-<li>AMS会根据intent-filter查找出匹配的广播接收者添加到<code>BroadcastQuene</code>中，最后调用了<code>ApplicationThread</code>的<code>scheduleRegisteredReceiver</code>接口方法，他通过<code>InnerReceiver</code>来实现广播的接收。</li>
-<li><code>InnerReceiver</code>最终会执行BroadcastReceiver的onReceive方法。</li>
-</ul>
-<h2 id="ContentProvider工作过程"><a href="#ContentProvider工作过程" class="headerlink" title="ContentProvider工作过程"></a>ContentProvider工作过程</h2><p>ContentProvider的onCreate要优先于Application的onCreate而执行。</p>
-<ul>
-<li>当一个应用启动或是ContentProvider所在的进程被AMS启动后，其入口方法为<code>ActivityThread</code>的main方法，它是一个静态方法，首先会创建<code>ActivityThread</code>的实例，然后执行其attach方法将<code>ApplicationThread</code>对象通过AMS的<code>attachApplication</code>方法跨进程传递给AMS。</li>
-<li>AMS的<code>attachApplication</code>方法调用了<code>attachApplicationLocked</code>方法，<code>attachApplicationLocked</code>方法中又调用了<code>ApplicationThread</code>的<code>bindApplication</code>，在其中通过Handler发送了一个<code>BIND_APPLICATION</code>的消息。</li>
-<li>在Handler的<code>handlerMessage</code>方法中调用了<code>ActivityThread</code>的<code>handlerBindApplication</code>方法。<ol>
-<li>创建ContextImpl和Instrumentation</li>
-<li>创建Application对象</li>
-<li>启动当前进程的ContentProvider并调用其onCreate方法</li>
-<li>调用Application的onCreate方法</li>
-</ol>
-</li>
+<h2 id="响应速度优化"><a href="#响应速度优化" class="headerlink" title="响应速度优化"></a>响应速度优化</h2><p>ANR 日志分析</p>
+<h2 id="线程优化"><a href="#线程优化" class="headerlink" title="线程优化"></a>线程优化</h2><p>采用线程池</p>
+<h2 id="性能优化建议"><a href="#性能优化建议" class="headerlink" title="性能优化建议"></a>性能优化建议</h2><ul>
+<li>避免创建过多的对象</li>
+<li>常量使用<code>static final</code>修饰</li>
+<li>使用 Android 特有的数据结构，比如<code>SparseArray、Pair</code></li>
+<li>适当使用软引用和弱引用</li>
+<li>采用内存缓存和磁盘缓存</li>
+<li>尽量采用静态内部类</li>
 </ul>
 
       
@@ -526,7 +481,7 @@
           
             <a href="/tags/Android/" rel="tag"># Android</a>
           
-            <a href="/tags/source-code/" rel="tag"># source code</a>
+            <a href="/tags/optimization/" rel="tag"># optimization</a>
           
         </div>
       
@@ -539,14 +494,18 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
+              <a href="/2018/04/03/单例模式/" rel="next" title="单例模式">
+                <i class="fa fa-chevron-left"></i> 单例模式
+              </a>
+            
           </div>
 
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2018/04/03/View的事件分发机制/" rel="prev" title="View的事件分发机制">
-                View的事件分发机制 <i class="fa fa-chevron-right"></i>
+              <a href="/2018/04/03/Handler/" rel="prev" title="Handler">
+                Handler <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -628,7 +587,7 @@
                 
                   <a href="/archives/">
                 
-                    <span class="site-state-item-count">12</span>
+                    <span class="site-state-item-count">15</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
@@ -650,7 +609,7 @@
                 
                 <div class="site-state-item site-state-tags">
                   <a href="/tags/index.html">
-                    <span class="site-state-item-count">7</span>
+                    <span class="site-state-item-count">8</span>
                     <span class="site-state-item-name">标签</span>
                   </a>
                 </div>
@@ -725,7 +684,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Activity启动过程"><span class="nav-number">1.</span> <span class="nav-text">Activity启动过程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Service启动过程"><span class="nav-number">2.</span> <span class="nav-text">Service启动过程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Service绑定过程"><span class="nav-number">3.</span> <span class="nav-text">Service绑定过程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#BroadcastReceiver工作过程"><span class="nav-number">4.</span> <span class="nav-text">BroadcastReceiver工作过程</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#ContentProvider工作过程"><span class="nav-number">5.</span> <span class="nav-text">ContentProvider工作过程</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#布局优化"><span class="nav-number">1.</span> <span class="nav-text">布局优化</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#绘制优化"><span class="nav-number">2.</span> <span class="nav-text">绘制优化</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#内存泄露优化"><span class="nav-number">3.</span> <span class="nav-text">内存泄露优化</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#响应速度优化"><span class="nav-number">4.</span> <span class="nav-text">响应速度优化</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#线程优化"><span class="nav-number">5.</span> <span class="nav-text">线程优化</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#性能优化建议"><span class="nav-number">6.</span> <span class="nav-text">性能优化建议</span></a></li></ol></div>
             
 
           </div>
@@ -757,7 +716,7 @@
       <i class="fa fa-area-chart"></i>
     </span>
     
-    <span title="站点总字数">70k</span>
+    <span title="站点总字数">101k</span>
   
 
   
@@ -766,7 +725,7 @@
       <i class="fa fa-coffee"></i>
     </span>
     
-    <span title="站点总阅读次数">1:10</span>
+    <span title="站点总阅读次数">1:41</span>
   
 </div>
 
