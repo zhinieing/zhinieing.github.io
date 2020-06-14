@@ -459,7 +459,7 @@
 <h3 id="load-调用处理流程图"><a href="#load-调用处理流程图" class="headerlink" title="load 调用处理流程图"></a>load 调用处理流程图</h3><blockquote>
 <p><code>DecodeJob</code>是整个任务的核心部分。使用了<code>LruCache</code>、弱引用二级内存缓存和<code>DiskLruCache</code>磁盘缓存。</p>
 </blockquote>
-<p><img src="../Glide/image-201804020004200.png" alt="mage-20180402000420"></p>
+<p><img src="/2017/11/30/Glide/Glide/image-201804020004200.png" alt="mage-20180402000420"></p>
 <h3 id="EngineJob"><a href="#EngineJob" class="headerlink" title="EngineJob"></a>EngineJob</h3><blockquote>
 <p>调度<code>DecodeJob</code>，添加，移除资源回调，并 notify 回调。</p>
 </blockquote>
@@ -472,7 +472,7 @@
 <h3 id="DecodeJob"><a href="#DecodeJob" class="headerlink" title="DecodeJob"></a>DecodeJob</h3><blockquote>
 <p>实现了<code>Runnable</code>接口，调度任务的核心类，整个请求的繁重工作都在这里完成：处理来自缓存或者原始的资源，应用转换动画以及<code>transcode</code>。负责根据缓存类型获取不同的<code>Generator</code>加载数据，数据加载成功后回调<code>DecodeJob</code>的<code>onDataFetcherReady</code>方法对资源进行处理。</p>
 </blockquote>
-<p><img src="../Glide/image-201804020009168.png" alt="mage-20180402000916"></p>
+<p><img src="/2017/11/30/Glide/Glide/image-201804020009168.png" alt="mage-20180402000916"></p>
 
       
     </div>

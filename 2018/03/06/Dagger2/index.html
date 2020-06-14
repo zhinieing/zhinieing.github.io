@@ -453,7 +453,7 @@
 <li><code>@Component</code>用来将<code>@Inject</code>和<code>@Module</code>联系起来的桥梁，从<code>@Module</code>中获取依赖并将依赖注入给<code>@Inject</code>。</li>
 </ul>
 <h3 id="Dagger2-注入原理"><a href="#Dagger2-注入原理" class="headerlink" title="Dagger2 注入原理"></a>Dagger2 注入原理</h3><p>先了解类图及辅助类的生成规则：</p>
-<p><img src="../Dagger2/image-201804031417535.png" alt="mage-20180331000001"></p>
+<p><img src="/2018/03/06/Dagger2/Dagger2/image-201804031417535.png" alt="mage-20180331000001"></p>
 <ul>
 <li>带<code>@Component</code>注解 ：生成 <code>Dagger_</code>(带<code>@Component</code>注解接口名称)。</li>
 <li>带<code>@Module</code>注解 ：生成 (带<code>@Mudule</code>类名)_(带<code>@Provides</code>注解的方法名)<code>Factory</code>。</li>
