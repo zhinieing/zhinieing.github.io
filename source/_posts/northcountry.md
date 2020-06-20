@@ -10,7 +10,6 @@ tags:
 ---
 之前在网易云音乐听到一首专辑，叫燕歌行，里面有一首歌，叫北国，歌词写得挺美。
 <blockquote><strong>北国夜无雪，隐隐惧相逢。</strong>
-
 <strong>宁负痴心某，独熬愚情种。</strong></blockquote>
 
 <!-- more -->

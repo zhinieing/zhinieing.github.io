@@ -1,7 +1,7 @@
 ---
 title: 汉阳造的三三兩兩
 date: 2015-08-23 23:35:44
-cover:https://suyan.peng-ming.cn/cover/hanyangzao.jpg
+cover: https://suyan.peng-ming.cn/cover/hanyangzao.jpg
 categories:
 - daily
 tags:

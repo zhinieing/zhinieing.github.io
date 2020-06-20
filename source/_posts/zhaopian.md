@@ -34,19 +34,25 @@ tags:
 <img class="aligncenter" src="https://suyan.peng-ming.cn/zhaopian/img_0282.jpg" width="1200" height="795" />
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/zhaopian/DSC_0022.jpg" width="797" height="1200" />
+
 <blockquote><strong>长发已及腰</strong>
-<strong>&emsp;&emsp;你还没到</strong>
-<strong>&emsp;&emsp;我也不想找</strong></blockquote>
+<strong>你还没到</strong>
+<strong>我也不想找</strong></blockquote>
+
 <img class="aligncenter" src="https://suyan.peng-ming.cn/zhaopian/DSC_0029.jpg" width="797" height="1200" />
+
 <blockquote><strong>我曾说过</strong>
-<strong>&emsp;&emsp;对陌生人</strong>
-<strong>&emsp;&emsp;还是没有把光圈开到F1.4的勇气</strong>
-<strong>&emsp;&emsp;现在</strong>
-<strong>&emsp;&emsp;你知道原因了吧</strong></blockquote>
+<strong>对陌生人</strong>
+<strong>还是没有把光圈开到F1.4的勇气</strong>
+<strong>现在</strong>
+<strong>你知道原因了吧</strong></blockquote>
+
 <img class="aligncenter" src="https://suyan.peng-ming.cn/zhaopian/DSC_0040.jpg" width="797" height="1200" />
+
 <blockquote><strong>从这一张</strong>
-<strong>&emsp;&emsp;也能看出你们姐妹</strong>
-<strong>&emsp;&emsp;有多相像</strong></blockquote>
+<strong>也能看出你们姐妹</strong>
+<strong>有多相像</strong></blockquote>
+
 <img class="aligncenter" src="https://suyan.peng-ming.cn/zhaopian/DSC_0076.jpg" width="797" height="1200" />
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/zhaopian/DSC_0101.jpg" width="797" height="1200" />

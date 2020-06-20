@@ -188,12 +188,12 @@ Your browser does not support the video tag.
 
 今天是情人节，记得在十分给渡渡鸟的明信片是这样写的。
 <blockquote><strong>其實很想我們能夠一直這樣走下去</strong>
-<strong>&emsp;&emsp;一起看臺北101的跨年煙花</strong>
-<strong>&emsp;&emsp;一起看臺中高美濕地的日落</strong>
-<strong>&emsp;&emsp;一起在高雄西子灣吹着海風</strong>
-<strong>&emsp;&emsp;一起在花蓮的海邊騎車溜達</strong>
-<strong>&emsp;&emsp;一起在平溪許願放一次天燈</strong>
-<strong>&emsp;&emsp;沒有你的十分並不美好</strong></blockquote>
+<strong>一起看臺北101的跨年煙花</strong>
+<strong>一起看臺中高美濕地的日落</strong>
+<strong>一起在高雄西子灣吹着海風</strong>
+<strong>一起在花蓮的海邊騎車溜達</strong>
+<strong>一起在平溪許願放一次天燈</strong>
+<strong>沒有你的十分並不美好</strong></blockquote>
 
 <audio src="http://music.163.com/song/media/outer/url?id=25880408.mp3" loop autoplay>
 Your browser does not support the audio tag.

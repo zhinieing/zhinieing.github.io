@@ -1,7 +1,7 @@
 ---
 title: 粒粒万鄉
 date: 2016-04-05 23:36:22
-cover:https://suyan.peng-ming.cn/cover/liliwanxiang.jpg
+cover: https://suyan.peng-ming.cn/cover/liliwanxiang.jpg
 categories:
 - daily
 tags:
@@ -15,59 +15,60 @@ tags:
 
 但我还是很喜欢奇妙能力歌的词。
 <blockquote><strong>我看过沙漠下暴雨</strong>
-<strong> &emsp;&emsp;看过大海亲吻鲨鱼</strong>
-<strong> &emsp;&emsp;看过黄昏追逐黎明</strong>
-<strong> &emsp;&emsp;没看过你</strong>
+<strong>看过大海亲吻鲨鱼</strong>
+<strong>看过黄昏追逐黎明</strong>
+<strong>没看过你</strong>
 
 <strong>我知道美丽会老去</strong>
-<strong> &emsp;&emsp;生命之外还有生命</strong>
-<strong> &emsp;&emsp;我知道风里有诗句</strong>
-<strong> &emsp;&emsp;不知道你</strong>
+<strong>生命之外还有生命</strong>
+<strong>我知道风里有诗句</strong>
+<strong>不知道你</strong>
 
 <strong>我听过荒芜变成热闹</strong>
-<strong> &emsp;&emsp;听过尘埃掩埋城堡</strong>
-<strong> &emsp;&emsp;听过天空拒绝飞鸟</strong>
-<strong> &emsp;&emsp;没听过你</strong>
+<strong>听过尘埃掩埋城堡</strong>
+<strong>听过天空拒绝飞鸟</strong>
+<strong>没听过你</strong>
 
 <strong>我明白眼前都是气泡</strong>
-<strong> &emsp;&emsp;安静的才是苦口良药</strong>
-<strong> &emsp;&emsp;明白什么才让我骄傲</strong>
-<strong> &emsp;&emsp;不明白你</strong>
+<strong>安静的才是苦口良药</strong>
+<strong>明白什么才让我骄傲</strong>
+<strong>不明白你</strong>
 
 <strong>我拒绝更好更圆的月亮</strong>
-<strong> &emsp;&emsp;拒绝未知的疯狂</strong>
-<strong> &emsp;&emsp;拒绝声色的张扬</strong>
-<strong> &emsp;&emsp;不拒绝你</strong>
+<strong>拒绝未知的疯狂</strong>
+<strong>拒绝声色的张扬</strong>
+<strong>不拒绝你</strong>
 
 <strong>我变成荒凉的景象</strong>
-<strong> &emsp;&emsp;变成无所谓的模样</strong>
-<strong> &emsp;&emsp;变成透明的高墙</strong>
-<strong> &emsp;&emsp;没能变成你</strong>
+<strong>变成无所谓的模样</strong>
+<strong>变成透明的高墙</strong>
+<strong>没能变成你</strong>
 
 <strong>我听过空境的回音</strong>
-<strong> &emsp;&emsp;雨水浇绿孤山岭</strong>
-<strong> &emsp;&emsp;听过被诅咒的秘密</strong>
-<strong> &emsp;&emsp;没听过你</strong>
+<strong>雨水浇绿孤山岭</strong>
+<strong>听过被诅咒的秘密</strong>
+<strong>没听过你</strong>
 
 <strong>我抓住散落的欲望</strong>
-<strong> &emsp;&emsp;缱绻的馥郁让我紧张</strong>
-<strong> &emsp;&emsp;我抓住世间的假想</strong>
-<strong> &emsp;&emsp;没抓住你</strong>
+<strong>缱绻的馥郁让我紧张</strong>
+<strong>我抓住世间的假想</strong>
+<strong>没抓住你</strong>
 
 <strong>我包容六月清泉结冰</strong>
-<strong> &emsp;&emsp;包容不老的生命</strong>
-<strong> &emsp;&emsp;包容世界的迟疑</strong>
-<strong> &emsp;&emsp;没包容你</strong>
+<strong>包容不老的生命</strong>
+<strong>包容世界的迟疑</strong>
+<strong>没包容你</strong>
 
 <strong>我忘了置身濒绝孤岛</strong>
-<strong> &emsp;&emsp;忘了眼泪不过失效药</strong>
-<strong> &emsp;&emsp;忘了百年无声口号</strong>
-<strong> &emsp;&emsp;没能忘记你</strong>
+<strong>忘了眼泪不过失效药</strong>
+<strong>忘了百年无声口号</strong>
+<strong>没能忘记你</strong>
 
 <strong>我想要更好更圆的月亮</strong>
-<strong> &emsp;&emsp;想要未知的疯狂</strong>
-<strong> &emsp;&emsp;想要声色的张扬</strong>
-<strong> &emsp;&emsp;我想要你</strong></blockquote>
+<strong>想要未知的疯狂</strong>
+<strong>想要声色的张扬</strong>
+<strong>我想要你</strong></blockquote>
+
 也因为陈粒，决定去草莓音乐节。
 
 先是去403艺术中心取票，又在那拍了几张照。

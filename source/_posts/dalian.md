@@ -143,10 +143,9 @@ tags:
 
 这个时候怎么能少得了一张自拍照呢。
 <blockquote><strong>东经120°44’</strong>
-
 <strong>北纬37°49’</strong>
-
 <strong>2016.07.02的我</strong></blockquote>
+
 <img class="aligncenter" src="https://suyan.peng-ming.cn/dalian/IMG_20160705_231736.jpg" width="1193" height="2121" />
 
 之所以会再次去渔人码头，是上次去的时候猫的天空之城在装修，这次去给渡渡鸟寄了张明信片，买了点小礼品。

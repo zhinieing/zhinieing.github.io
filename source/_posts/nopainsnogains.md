@@ -14,9 +14,10 @@ tags:
 
 自然又是少不了的鸡汤文。记得有人留言，每天的浏览量让我知道，即使在深夜十二点，还有那么多人在努力着。
 <blockquote><strong>If I should meet thee</strong>
-<strong>&emsp;&emsp;After long years</strong>
-<strong>&emsp;&emsp;How should I greet thee</strong>
-<strong>&emsp;&emsp;With silence and tear</strong></blockquote>
+<strong>After long years</strong>
+<strong>How should I greet thee</strong>
+<strong>With silence and tear</strong></blockquote>
+
 前段时间李雅琪在湖美旁边开了家店，让我去看看。去了看了感觉挺好的，毕竟她才大三，毕竟在大多数同龄人都习惯了当上帝时，她已经有了反客为主的想法。
 
 帮她把剩下的一小块墙壁和空调外机都刷上了很好看的天蓝色，然后看着她们在自己店里挑衣服，我来拍照。
@@ -97,17 +98,18 @@ tags:
 
 其实自己想要的不多，一个不好不坏有自己喜欢的人的未来，就心满意足。就像之前在大连寄给渡渡鸟的明信片上写的那样。
 <blockquote><strong>我希望，有那么个人</strong>
-<strong>&emsp;&emsp;22岁相恋</strong>
-<strong>&emsp;&emsp;25岁结婚</strong>
-<strong>&emsp;&emsp;27岁一个生命诞生</strong>
-<strong>&emsp;&emsp;28岁孩子叫我们爸爸妈妈</strong>
-<strong>&emsp;&emsp;走过七年之痒</strong>
-<strong>&emsp;&emsp;40岁激情褪去，我们仍然相爱</strong>
-<strong>&emsp;&emsp;50岁孩子有自己的爱情</strong>
-<strong>&emsp;&emsp;60岁我们一起旅行</strong>
-<strong>&emsp;&emsp;70岁我们儿孙绕膝</strong>
-<strong>&emsp;&emsp;80岁不再恐惧死亡</strong>
-<strong>&emsp;&emsp;因为，彼此相依</strong></blockquote>
+<strong>22岁相恋</strong>
+<strong>25岁结婚</strong>
+<strong>27岁一个生命诞生</strong>
+<strong>28岁孩子叫我们爸爸妈妈</strong>
+<strong>走过七年之痒</strong>
+<strong>40岁激情褪去，我们仍然相爱</strong>
+<strong>50岁孩子有自己的爱情</strong>
+<strong>60岁我们一起旅行</strong>
+<strong>70岁我们儿孙绕膝</strong>
+<strong>80岁不再恐惧死亡</strong>
+<strong>因为，彼此相依</strong></blockquote>
+
 路还很长，只想对未来的自己说，请别失望。
 
 <audio src="http://music.163.com/song/media/outer/url?id=29850531.mp3" loop autoplay>
