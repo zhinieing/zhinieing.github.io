@@ -1,7 +1,7 @@
 ---
 title: 宋崗二路的日子
 date: 2013-01-04 23:32:10
-cover: https://suyan.peng-ming.cn/cover/thedayinsonggangtworoad.jpg
+cover: cover/thedayinsonggangtworoad.jpg
 categories:
 - daily
 tags:

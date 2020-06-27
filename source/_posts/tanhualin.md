@@ -1,7 +1,7 @@
 ---
 title: 昙華林的光
 date: 2015-03-03 23:35:19
-cover: https://suyan.peng-ming.cn/cover/tanhualin.jpg
+cover: cover/tanhualin.jpg
 categories:
 - daily
 tags:

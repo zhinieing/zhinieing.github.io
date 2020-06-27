@@ -1,7 +1,7 @@
 ---
 title: 執蘖
 date: 2012-06-08 22:40:18
-cover: https://suyan.peng-ming.cn/cover/zhinie.jpg
+cover: cover/zhinie.jpg
 categories:
 - daily
 tags:

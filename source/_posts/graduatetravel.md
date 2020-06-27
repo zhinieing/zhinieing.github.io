@@ -1,13 +1,14 @@
 ---
 title: 願你出走半生，歸來仍是废人
 date: 2017-06-20 23:37:53
-cover: https://suyan.peng-ming.cn/cover/graduatetravel.jpg
+cover: cover/graduatetravel.jpg
 categories:
 - travel
 tags:
 - 青海
 - 甘肃
 - 银川
+- topic
 ---
 6月12日的晚上，青海小分队一行七人在武汉天河机场出发，目的地是一千二百多公里外的兰州。还记得，宋胖子的董小姐里有这么一句，陌生的人请给我一支兰州。
 

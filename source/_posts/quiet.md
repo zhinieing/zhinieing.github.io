@@ -1,7 +1,7 @@
 ---
 title: 安靜
 date: 2013-06-16 23:32:18
-cover: https://suyan.peng-ming.cn/cover/quiet.jpg
+cover: cover/quiet.jpg
 categories:
 - daily
 tags:

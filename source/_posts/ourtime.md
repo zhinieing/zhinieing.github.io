@@ -1,7 +1,7 @@
 ---
 title: 時光于你我
 date: 2014-10-14 23:35:00
-cover: https://suyan.peng-ming.cn/cover/ourtime.jpg
+cover: cover/ourtime.jpg
 categories:
 - daily
 tags:

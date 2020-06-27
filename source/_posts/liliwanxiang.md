@@ -1,7 +1,7 @@
 ---
 title: 粒粒万鄉
 date: 2016-04-05 23:36:22
-cover: https://suyan.peng-ming.cn/cover/liliwanxiang.jpg
+cover: cover/liliwanxiang.jpg
 categories:
 - daily
 tags:

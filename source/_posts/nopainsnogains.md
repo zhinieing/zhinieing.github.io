@@ -1,7 +1,7 @@
 ---
 title: 路還很長，请别失望
 date: 2016-09-11 23:37:25
-cover: https://suyan.peng-ming.cn/cover/nopainsnogains.jpg
+cover: cover/nopainsnogains.jpg
 categories:
 - daily
 tags:
@@ -64,7 +64,7 @@ tags:
 
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0806.jpg" alt="" width="1200" height="797" />
 
-逆光人像也不错哦
+逆光人像也不错哦。
 
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0807.jpg" alt="" width="797" height="1200" />
 
@@ -82,7 +82,7 @@ tags:
 
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0838.jpg" alt="" width="797" height="1200" />
 
-最后两张在校门口处跟校车的合影也美美哒
+最后两张在校门口处跟校车的合影也美美哒。
 
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0843.jpg" alt="" width="797" height="1200" />
 
@@ -112,6 +112,6 @@ tags:
 
 路还很长，只想对未来的自己说，请别失望。
 
-<audio src="http://music.163.com/song/media/outer/url?id=29850531.mp3" loop autoplay>
+<audio src="http://music.163.com/song/media/outer/url?id=29850531.mp3" poster="http://p1.music.126.net/o25ptaSygDb2rVdTpIKexw==/17793396672429120.jpg" name="不找了" author="郭旭" loop autoplay>
 Your browser does not support the audio tag.
 </audio>

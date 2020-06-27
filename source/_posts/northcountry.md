@@ -1,7 +1,7 @@
 ---
 title: 北國
 date: 2015-11-20 23:36:04
-cover: https://suyan.peng-ming.cn/cover/northcountry.jpg
+cover: cover/northcountry.jpg
 categories:
 - travel
 tags:

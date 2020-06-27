@@ -1,7 +1,7 @@
 ---
 title: 瑪吉阿米
 date: 2016-08-09 23:37:09
-cover: https://suyan.peng-ming.cn/cover/majiami.jpg
+cover: cover/majiami.jpg
 categories:
 - daily
 tags:

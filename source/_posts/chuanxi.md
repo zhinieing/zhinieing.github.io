@@ -1,7 +1,7 @@
 ---
 title: 我當然不會試图摘月，我要月亮奔我而來
 date: 2019-06-08 23:38:41
-cover: https://suyan.peng-ming.cn/cover/chuanxi.jpg
+cover: cover/chuanxi.jpg
 categories:
 - travel
 tags:
@@ -10,7 +10,6 @@ tags:
 - 色达
 - 川西
 - 成都
-- topic
 ---
 在全城高考的尾巴上，我和表姐出现在天河机场，假装刚刚高考完，出去浪。
 

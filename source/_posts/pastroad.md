@@ -1,7 +1,7 @@
 ---
 title: 過去的路
 date: 2014-08-09 23:32:36
-cover: https://suyan.peng-ming.cn/cover/pastroad.jpg
+cover: cover/pastroad.jpg
 categories:
 - travel
 tags:

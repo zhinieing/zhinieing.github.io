@@ -1,7 +1,7 @@
 ---
 title: 再許一個转山转水转佛塔的開始
 date: 2019-01-01 23:38:28
-cover: https://suyan.peng-ming.cn/cover/tibet.jpg
+cover: cover/tibet.jpg
 categories:
 - travel
 tags:

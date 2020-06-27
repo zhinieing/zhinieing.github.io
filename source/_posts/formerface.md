@@ -1,7 +1,7 @@
 ---
 title: 從前的脸
 date: 2014-02-10 23:32:26
-cover: https://suyan.peng-ming.cn/cover/formerface.jpg
+cover: cover/formerface.jpg
 categories:
 - daily
 tags:

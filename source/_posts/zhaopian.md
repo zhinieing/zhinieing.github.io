@@ -1,7 +1,7 @@
 ---
 title: 那些被照，騙了的人
 date: 2016-05-22 23:36:43
-cover: https://suyan.peng-ming.cn/cover/zhaopian.jpg
+cover: cover/zhaopian.jpg
 categories:
 - daily
 tags:

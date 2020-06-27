@@ -1,7 +1,7 @@
 ---
 title: 民國106年，初
 date: 2017-02-14 23:37:39
-cover: https://suyan.peng-ming.cn/cover/taiwan.jpg
+cover: cover/taiwan.jpg
 categories:
 - travel
 tags:
