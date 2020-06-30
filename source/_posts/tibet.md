@@ -148,8 +148,7 @@ tags:
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/tibet/1546218501664.jpg" />
 
-<video class="aligncenter" src="http://lvideo.dafork.com/lkMws4RZEAKk_PWIgsfUVdIxjuvP" preload="metadata" controls="controls" width="100%" height="100%"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
-Your browser does not support the video tag.
+<video class="aligncenter" src="http://lvideo.dafork.com/lkMws4RZEAKk_PWIgsfUVdIxjuvP" preload="metadata" controls="controls" width="100%" height="100%">
 </video>
 
 第四天开始珠峰四日游，跟了一个十四人的旅游团，后来也都成了患难与共的小伙伴。今天分别去了羊卓雍错、普姆雍措、卡若拉冰川，到日喀则时已经晚上十一点。在上了海拔五千米的羊湖后，不知道是不是身体里插的双 J 管开始作祟，肚子开始腹胀，好在后来再没有出现什么问题。
@@ -192,8 +191,7 @@ Your browser does not support the video tag.
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/tibet/Tibet-47.jpg" />
 
-<video class="aligncenter" src="http://lvideo.dafork.com/llm1omq--HRwrJU9QWmbrvYBmMaZ" preload="metadata" controls="controls" width="100%" height="100%"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
-Your browser does not support the video tag.
+<video class="aligncenter" src="http://lvideo.dafork.com/llm1omq--HRwrJU9QWmbrvYBmMaZ" preload="metadata" controls="controls" width="100%" height="100%">
 </video>
 
 第六天回日喀则，遇上当地后藏的藏历新年，放了烟花，很是热闹。去了仓央嘉措曾受戒的扎什伦布寺，也听说了不久前日喀则下了十五年一遇的大雪，正在渡过一个很久没有这么冷过的冬天。
@@ -252,14 +250,12 @@ Your browser does not support the video tag.
 
 在从拉萨飞昆明的飞机上，看到了远处的南迦巴瓦峰和近处的梅里雪山。在飞机上降噪耳机里一直放的是《你坏》中赵雷的阿刁。
 
-<video class="aligncenter" src="http://lvideo.dafork.com/luxpcdICzR9-0gHCDW3dlWdOWc2f" preload="metadata" controls="controls" width="100%" height="100%"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
-Your browser does not support the video tag.
+<video class="aligncenter" src="http://lvideo.dafork.com/luxpcdICzR9-0gHCDW3dlWdOWc2f" preload="metadata" controls="controls" width="100%" height="100%">
 </video>
 
 大冰书中有一个观点我开始有点感同身受：既可以早九晚五，也可以浪迹天涯。这个世界上没有什么生活方式是完全正确的。只有那么一小部分人足够幸运到把自己喜欢的事作为事业，大多数的我们应该做的是，平衡好必须早九晚五的现实和想要说走就走的心态。神山圣湖并不是重点，接受平凡的自我，但不放弃理想和信仰，热爱生活，我们都可以在路上。
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/tibet/save_share_review_picture_1547572075.jpeg" />
 
-<audio src="http://music.163.com/song/media/outer/url?id=571338415.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=571338415.mp3" poster="http://p1.music.126.net/BJgUd9aD9gpougZFASRTTw==/18548761162235571.jpg?param=130y130" name="阿刁" author="赵雷" loop autoplay>
 </audio>

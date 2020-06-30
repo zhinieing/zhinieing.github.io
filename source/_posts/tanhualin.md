@@ -29,6 +29,5 @@ tags:
 
 最后，倾情推荐，武大小默笙吴倩在2013年主演的一部叫做<a style="font-weight: bold;" href="http://www.iqiyi.com/v_19rrhg6frk.html" target="_blank" rel="noopener">昙华林</a>的微电影。
 
-<audio src="http://music.163.com/song/media/outer/url?id=406475394.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=406475394.mp3" poster="http://p1.music.126.net/UIE3T_txKzd6e8PORxmpCQ==/109951163412959613.jpg?param=130y130" name="Wonderful U" author="AGA" loop autoplay>
 </audio>

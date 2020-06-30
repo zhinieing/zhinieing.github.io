@@ -59,6 +59,5 @@ tags:
 
 时光于你我，真的不应该只是，我孑然一身地目送你独自离开，不再回来。
 
-<audio src="http://link.hhtjim.com/xiami/1773992790.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://link.hhtjim.com/xiami/1773992790.mp3" poster="https://pic.xiami.net/images/album/img77/593402077/5237927551426732043.jpg?x-oss-process=image/resize,limit_0,m_fill,s_410/quality,q_80/format,jpg" name="13" author="金玟岐" loop autoplay>
 </audio>

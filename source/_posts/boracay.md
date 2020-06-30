@@ -32,7 +32,6 @@ tags:
 周末第一天一日游出海浮潜，喝了几口海水，咸得像吞了几口盐。
 
 <video class="aligncenter" src="http://lvideo.dafork.com/FloVaiFocG20kmmdJJpWQo3yGlcY" preload="metadata" controls="controls" width="100%" height="100%">
-Your browser does not support the video tag.
 </video>
 
 长滩岛出名的白沙滩，像面粉一样细而柔软的沙。
@@ -42,7 +41,6 @@ Your browser does not support the video tag.
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/boracay/changtan-9.jpg" width="1200" height="797" />
 
 <video class="aligncenter" src="http://lvideo.dafork.com/FhLbJx3mM5_wr7hJfJKPJavSNtjB" preload="metadata" controls="controls" width="100%" height="100%">
-Your browser does not support the video tag.
 </video>
 
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/boracay/changtan-6.jpg" width="1200" height="797" />
@@ -52,7 +50,6 @@ Your browser does not support the video tag.
 之后去魔术岛跳海，先是跳了一个5m的，感觉也没什么，就继续跳了个7m的。
 
 <video class="aligncenter" src="http://lvideo.dafork.com/Fltl6Ng0FDli-ipe-pTPMu4GzZwx" preload="metadata" controls="controls" width="100%" height="100%">
-Your browser does not support the video tag.
 </video>
 
 晚上从station1到station2沿着海边，一路走走拍拍。后来跟着小伙伴去了长滩岛最大的酒吧，只记得喝了几杯当地的啤酒，后来也上去尬了几次舞，来的大半都是韩国妹子。
@@ -87,6 +84,5 @@ Your browser does not support the video tag.
 
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/boracay/changtan-16.jpg" width="1200" height="797" />
 
-<audio src="http://music.163.com/song/media/outer/url?id=450567505.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=450567505.mp3" poster="http://p2.music.126.net/ZgaAgq6eXTOKHsMU8rYZKA==/109951163909048455.jpg?param=130y130" name="青鸟与诗" author="愚青" loop autoplay>
 </audio>

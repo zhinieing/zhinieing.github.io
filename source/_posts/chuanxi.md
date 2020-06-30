@@ -143,12 +143,10 @@ tags:
 
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/chuanxi/IMG_0453.jpeg" width="3024" height="3024" />
 
-<video class="aligncenter" src="http://lvideo.dafork.com/FgbijuYFO7W3H9PhjD_VJuS0oOHh" preload="metadata" controls="controls" width="100%" height="100%"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
-Your browser does not support the video tag.
+<video class="aligncenter" src="http://lvideo.dafork.com/FgbijuYFO7W3H9PhjD_VJuS0oOHh" preload="metadata" controls="controls" width="100%" height="100%">
 </video>
 
-<video class="aligncenter" src="http://lvideo.dafork.com/FjiCi3P9BNu_usJWgpmq_oqMuYgX" preload="metadata" controls="controls" width="100%" height="100%"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>
-Your browser does not support the video tag.
+<video class="aligncenter" src="http://lvideo.dafork.com/FjiCi3P9BNu_usJWgpmq_oqMuYgX" preload="metadata" controls="controls" width="100%" height="100%">
 </video>
 
 当天回来后，她累得不行，就已经放弃了第二天亚丁短线冲古寺到珍珠海的计划，我不能抛弃她一个人玩耍，就也没去。那天晚上到稻城县，晚上亮灯后的白塔挺好看的，当天住了一个还比较有格调的民宿，早早起了在三楼天台准备拍星空，但来之前没算好月相，当天接近满月，月亮落下去后马上就进入了蓝调时刻，想了想就拍日出算了，在天文晨始光出现后拍了段延时。
@@ -250,9 +248,7 @@ Your browser does not support the video tag.
 故事的最后，有一段三千多张照片拼成的两分多钟<a style="font-weight: bold;" href="https://www.bilibili.com/video/BV1ki4y1x7n1/" target="_blank" rel="noopener">延时视频</a>。记得16年我和某人看完从你的全世界路过，从电影院出来后，她问过我一个问题，说幺鸡为什么直到一年后才去找陈末，我说她想让自己变得更好，更好的人才会遇见更好的幸福，同时时间也会留下对的人。要是现在，我会用一句赫本的话说，我当然不会试图摘月，我要月亮奔我而来。
 
 <video class="aligncenter" src="http://lvideo.dafork.com/ll86BRJ25Dh-uX2zuYxBtw-mUKpm" preload="metadata" controls="controls" width="100%" height="100%">
-Your browser does not support the video tag.
 </video>
 
-<audio src="http://music.163.com/song/media/outer/url?id=431357712.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=432509483.mp3" poster="http://p1.music.126.net/zGgUaGvXapKMy5tfQIB7cw==/109951163167743834.jpg?param=130y130" name="全世界谁倾听你" author="林宥嘉" loop autoplay>
 </audio>

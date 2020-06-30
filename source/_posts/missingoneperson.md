@@ -35,6 +35,5 @@ tags:
 
 最后的最后，我梦里的世界坍塌了，而那份想念，也终于跋山涉水，走进了我的心底。
 
-<audio src="https://suyan.peng-ming.cn/music/aohan.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="https://suyan.peng-ming.cn/music/aohan.mp3" poster="https://y.gtimg.cn/music/photo_new/T002R300x300M0000045GzEt0I9c3x_1.jpg" name="傲寒" author="马頔" loop autoplay>
 </audio>

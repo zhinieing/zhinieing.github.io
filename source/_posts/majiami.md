@@ -55,6 +55,5 @@ tags:
 
 以后好好过，我们各自都要好好过。。。。。。
 
-<audio src="https://suyan.peng-ming.cn/music/The_Rose.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="https://suyan.peng-ming.cn/music/The_Rose.mp3" poster="https://y.gtimg.cn/music/photo_new/T002R300x300M000000hGvt116hvez_1.jpg?max_age=2592000" name="The Rose" author="手嶌葵" loop autoplay>
 </audio>

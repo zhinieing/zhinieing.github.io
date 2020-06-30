@@ -33,7 +33,6 @@ tags:
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/graduatetravel/GraduateTravel-16.jpg" width="1200" height="819" />
 
 <video class="aligncenter" src="http://lvideo.dafork.com/FqP2ueR1l96z223amO0PRcahpWK4" preload="metadata" controls="controls" width="100%" height="100%">
-Your browser does not support the video tag.
 </video>
 
 在往德令哈方向去大柴旦的路上，景色越来越荒凉。大柴旦是个小镇，就在雪山的脚下，抬头就可以看到雪。这是在青海省内的最后一站。第二天开了一个多小时，在一处地方看到路边有骆驼，就停下来拍照，近处是荒山，远处是雪山。
@@ -148,6 +147,5 @@ Your browser does not support the video tag.
 
 6月19日在晚上12点快到的时候终于赶到了寝室，毕业旅行就此结束。
 
-<audio src="https://suyan.peng-ming.cn/music/Rec_001.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="https://suyan.peng-ming.cn/music/Rec_001.mp3" poster="http://p1.music.126.net/ZssgfaO-g7uvnI-7EEal9A==/109951163447793114.jpg?param=130y130" name="广岛之恋" author="刘钏" loop autoplay>
 </audio>

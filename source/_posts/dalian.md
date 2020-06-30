@@ -170,6 +170,5 @@ tags:
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/dalian/IMG_20160719_173754.jpg" width="1200" height="797" />
 
-<audio src="http://music.163.com/song/media/outer/url?id=477939.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=477939.mp3" poster="http://p2.music.126.net/OpgpNNPKznDDMxoBqVJy-Q==/2464005557906815.jpg?param=130y130" name="ヨスガノソラメインテ" author="Bruno Wen-li" loop autoplay>
 </audio>

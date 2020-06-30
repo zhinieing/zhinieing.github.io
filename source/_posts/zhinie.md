@@ -65,6 +65,5 @@ tags:
 
 执。
 
-<audio src="http://music.163.com/song/media/outer/url?id=478127.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=478127.mp3" poster="http://p1.music.126.net/RIOvUtQejxeI5S2sP_nmiw==/3434874333355654.jpg?param=130y130" name="寂しい夜" author="三輪学" loop autoplay>
 </audio>

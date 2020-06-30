@@ -87,6 +87,5 @@ tags:
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/hanyangzao/IMG_20151128_2342.jpg" width="1200" height="1200" />
 
-<audio src="http://music.163.com/song/media/outer/url?id=31445554.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=31445554.mp3" poster="http://p1.music.126.net/uxyYBS5jhmi_DN4xDYy3eg==/7872503255697381.jpg?param=130y130" name="七月上" author="Jam" loop autoplay>
 </audio>

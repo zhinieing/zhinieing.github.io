@@ -59,6 +59,5 @@ tags:
 
 故事的最后，时间带着翅膀逃走了，曾经那份如火如荼的欣喜与期盼也终于变得斑驳起来，她试图站在记忆的背后，像是一个过路的人，始终相信自己从未来过，从未离开。
 
-<audio src="http://music.163.com/song/media/outer/url?id=32455238.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=32455238.mp3" poster="http://p1.music.126.net/Z5gJSRbLn-HnQjZ7xY9UWw==/109951162827030429.jpg?param=130y130" name="远山" author="末小皮" loop autoplay>
 </audio>

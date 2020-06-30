@@ -78,9 +78,9 @@ symbols_count_time:
   total_time: true
 
 search:
-  path: search.xml
+  path: search.json
   field: post
-  format: html
+  format: striptags
   limit: 10000
 
 # Extensions

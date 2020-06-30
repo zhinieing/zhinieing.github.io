@@ -112,6 +112,5 @@ tags:
 
 路还很长，只想对未来的自己说，请别失望。
 
-<audio src="http://music.163.com/song/media/outer/url?id=29850531.mp3" poster="http://p1.music.126.net/o25ptaSygDb2rVdTpIKexw==/17793396672429120.jpg" name="不找了" author="郭旭" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=496073410.mp3" poster="http://p2.music.126.net/b2_AuddnpreCTQPwTajg2A==/109951162994638340.jpg?param=130y130" name="再也不会有人会比我更爱你" author="黄恺" loop autoplay>
 </audio>

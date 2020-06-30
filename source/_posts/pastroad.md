@@ -138,6 +138,5 @@ tags:
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/pastroad/IMG_3010.JPG" width="3264" height="4928" />
 
-<audio src="http://link.hhtjim.com/xiami/1774178384.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=32272267.mp3" poster="http://p1.music.126.net/W-WHCe2sQK1MQ_ftE8oCcA==/7760353069698404.jpg?param=130y130" name="人海" author="燕池" loop autoplay>
 </audio>

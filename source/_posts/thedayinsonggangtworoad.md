@@ -31,6 +31,5 @@ tags:
 
 我知道，所有琐碎的生命，只是为了证明曾经勇敢地赶赴这场青春的盛会。而直到现在，我淋了雨，涉过水，穿过迷雾，走进自己的心里。
 
-<audio src="http://music.163.com/song/media/outer/url?id=38576323.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=38576323.mp3" poster="http://p2.music.126.net/hYjA4Th6CAdkWI_sm32juw==/109951163669459549.jpg?param=130y130" name="春风十里" author="鹿先森乐队" loop autoplay>
 </audio>

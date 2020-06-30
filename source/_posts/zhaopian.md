@@ -73,6 +73,5 @@ tags:
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/zhaopian/IMG_0850.jpg" width="900" height="1200" />
 
-<audio src="http://music.163.com/song/media/outer/url?id=28285911.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=421870099.mp3" poster="http://p2.music.126.net/nJ9nSgv0t_zfKNOEmt3Arw==/17791197649359137.jpg?param=130y130" name="恋爱的犀牛" author="黄雨篱" loop autoplay>
 </audio>

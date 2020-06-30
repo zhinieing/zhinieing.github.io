@@ -120,7 +120,6 @@ tags:
 <img class="aligncenter" src="https://suyan.peng-ming.cn/liliwanxiang/DSC_0290.jpg" width="1200" height="797" />
 
 <video class="aligncenter" src="http://lvideo.dafork.com/llugxspCCS8q--jQGDLGa9-jIUJH" preload="metadata" controls="controls" width="100%" height="100%">
-Your browser does not support the video tag.
 </video>
 
 友情出境的珠珠，记得我们在水果湖菜市场吐槽过的菜价，她做的饭很好吃，总习惯在半夜来一碗麻辣烫。
@@ -137,6 +136,5 @@ Your browser does not support the video tag.
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/liliwanxiang/IMG_20160430_154920R.jpg" width="1200" height="675" /><!--more-->
 
-<audio src="http://music.163.com/song/media/outer/url?id=29431066.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=29431066.mp3" poster="http://p2.music.126.net/VuJFMbXzpAProbJPoXLv7g==/7721870161993398.jpg?param=130y130" name="奇妙能力歌" author="陈粒" loop autoplay>
 </audio>

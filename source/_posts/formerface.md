@@ -55,6 +55,5 @@ tags:
 
 2014，我在绝望时看到了一丝希望，在满怀希望时又当头棒喝，但我还是决定做一个活在过去的人，这样看来，我貌似又要孤单了......
 
-<audio src="http://music.163.com/song/media/outer/url?id=30635706.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=30635706.mp3" poster="http://p2.music.126.net/4GMiYS1VYjHvyrMrW7ns7Q==/18229902788956334.jpg?param=130y130" name="从前慢" author="洪尘" loop autoplay>
 </audio>

@@ -115,7 +115,6 @@ tags:
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/taiwan/taiwan-75.jpg" width="2000" height="1334" />
 
 <video class="aligncenter" src="http://lvideo.dafork.com/Fu8zLEk1t0E7DKA2fR7yH1i4izW6" preload="metadata" controls="controls" width="100%" height="100%">
-Your browser does not support the video tag.
 </video>
 
 花莲是个很静谧的地方，靠山临海。他们都说，来花莲一定要去苏花公路骑车，去七星潭堆石头，去太平洋赏鲸豚。前两个都做到了，但因为海浪太大，我在的那两天都不能出海，是一个很大的遗憾。
@@ -195,6 +194,5 @@ Your browser does not support the video tag.
 <strong>一起在平溪許願放一次天燈</strong>
 <strong>沒有你的十分並不美好</strong></blockquote>
 
-<audio src="http://music.163.com/song/media/outer/url?id=25880408.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=1443886269.mp3" poster="http://p2.music.126.net/RdC2b8q7bKzIiWCbMWBaTg==/109951164947895542.jpg?param=130y130" name="Someday or One Day" author="孙盛希" loop autoplay>
 </audio>

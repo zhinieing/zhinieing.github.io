@@ -53,6 +53,5 @@ tags:
 
 2013 06 16，我躺在医院里，故事结束。
 
-<audio src="https://suyan.peng-ming.cn/music/light_in_eye.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=512527423.mp3" poster="http://p1.music.126.net/9WQ-LzRSfQFqGSKmF3kF5Q==/109951163041923985.jpg?param=130y130" name="晃动在眼皮上的阳光" author="玥霖Gabrielle" loop autoplay>
 </audio>

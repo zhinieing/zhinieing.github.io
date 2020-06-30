@@ -108,6 +108,5 @@ tags:
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/northcountry/IMG_20151118_075922.jpg" width="1200" height="900" />
 
-<audio src="http://link.hhtjim.com/xiami/1774208888.mp3" loop autoplay>
-Your browser does not support the audio tag.
+<audio src="http://music.163.com/song/media/outer/url?id=32217107.mp3" poster="http://p2.music.126.net/W-WHCe2sQK1MQ_ftE8oCcA==/7760353069698404.jpg?param=130y130" name="北国" author="燕池" loop autoplay>
 </audio>
