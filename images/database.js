@@ -55,13 +55,13 @@ module.exports = function(locals, config) {
   let searchfield = config.search.field;
   let database = [];
   if (searchfield === 'all' || searchfield === 'post') {
-    locals.posts.each(post => {
+    locals.posts.sort('-date').each(post => {
       let data = savedb(post, config, true);
       database.push(data);
     });
   }
   if (searchfield === 'all' || searchfield === 'page') {
-    locals.pages.each(page => {
+    locals.pages.sort('-date').each(page => {
       let data = savedb(page, config);
       database.push(data);
     });
