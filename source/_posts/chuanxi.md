@@ -245,7 +245,7 @@ tags:
 
 <img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/chuanxi/0618-6.jpg" width="3000" height="2000" />
 
-故事的最后，有一段三千多张照片拼成的两分多钟<a style="font-weight: bold;" href="https://www.bilibili.com/video/BV1ki4y1x7n1/" target="_blank" rel="noopener">延时视频</a>。记得16年我和某人看完从你的全世界路过，从电影院出来后，她问过我一个问题，说幺鸡为什么直到一年后才去找陈末，我说她想让自己变得更好，更好的人才会遇见更好的幸福，同时时间也会留下对的人。要是现在，我会用一句赫本的话说，我当然不会试图摘月，我要月亮奔我而来。
+故事的最后，有一段三千多张照片拼成的两分多钟延时视频。记得16年我和某人看完从你的全世界路过，从电影院出来后，她问过我一个问题，说幺鸡为什么直到一年后才去找陈末，我说她想让自己变得更好，更好的人才会遇见更好的幸福，同时时间也会留下对的人。要是现在，我会用一句赫本的话说，我当然不会试图摘月，我要月亮奔我而来。
 
 <video class="aligncenter" src="http://lvideo.dafork.com/ll86BRJ25Dh-uX2zuYxBtw-mUKpm" preload="metadata" controls="controls" width="100%" height="100%">
 </video>

@@ -27,7 +27,7 @@ tags:
 
 <img class="aligncenter" src="https://suyan.peng-ming.cn/tanhualin/7642938.webp.jpg" width="800" height="1200" />
 
-最后，倾情推荐，武大小默笙吴倩在2013年主演的一部叫做<a style="font-weight: bold;" href="http://www.iqiyi.com/v_19rrhg6frk.html" target="_blank" rel="noopener">昙华林</a>的微电影。
+最后，倾情推荐，武大小默笙吴倩在2013年主演的一部叫做昙华林的微电影。
 
 <audio src="http://music.163.com/song/media/outer/url?id=406475394.mp3" poster="http://p1.music.126.net/UIE3T_txKzd6e8PORxmpCQ==/109951163412959613.jpg?param=130y130" name="Wonderful U" author="AGA" loop autoplay>
 </audio>
