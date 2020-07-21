@@ -41,19 +41,19 @@ tags:
 
 今天在LOFTER上给渡渡鸟做了一份七夕定制的LOMO卡，可是都没有机会亲手给她。
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/majiami/DSC_0646.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/majiami/DSC_0646.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/majiami/DSC_0647.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/majiami/DSC_0647.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/majiami/DSC_0653.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/majiami/DSC_0653.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/majiami/DSC_0655.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/majiami/DSC_0655.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/majiami/DSC_0656.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/majiami/DSC_0656.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/majiami/DSC_0660.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/majiami/DSC_0660.jpg" width="1200" height="797" />
 
 以后好好过，我们各自都要好好过。。。。。。
 
-<audio src="https://suyan.peng-ming.cn/music/The_Rose.mp3" poster="https://y.gtimg.cn/music/photo_new/T002R300x300M000000hGvt116hvez_1.jpg?max_age=2592000" name="The Rose" author="手嶌葵" loop autoplay>
+<audio src="http://suyan.yezy.tech/music/The_Rose.mp3" poster="https://y.gtimg.cn/music/photo_new/T002R300x300M000000hGvt116hvez_1.jpg?max_age=2592000" name="The Rose" author="手嶌葵" loop autoplay>
 </audio>

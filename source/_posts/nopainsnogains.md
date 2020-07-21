@@ -22,77 +22,77 @@ tags:
 
 帮她把剩下的一小块墙壁和空调外机都刷上了很好看的天蓝色，然后看着她们在自己店里挑衣服，我来拍照。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0668.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0668.jpg" alt="" width="797" height="1200" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0677.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0677.jpg" alt="" width="797" height="1200" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/IMG_20160827_084548.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/IMG_20160827_084548.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/IMG_20160827_085135.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/IMG_20160827_085135.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0669.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0669.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0713.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0713.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/IMG_20160827_084107.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/IMG_20160827_084107.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0720.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0720.jpg" alt="" width="797" height="1200" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0670.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0670.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0744.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0744.jpg" alt="" width="797" height="1200" />
 
 今天是我的生日，在去找渡渡鸟的路上，我仿佛看到了两年前的自己。有点欣慰，也有点遗憾，最后还是，有点想她了。我们还是一起去了皇冠蛋糕，点了两个一模一样甜腻得还是没能吃完的小点心。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0774.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0774.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0775.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0775.jpg" alt="" width="1200" height="797" />
 
 这次我带了相机，想想到现在，也已经给不少女生拍过照，却还没给自己喜欢的人拍过，是不是有点遗憾。
 
 我们一起到了黄陂一中老校区，她曾经在这里呆了我一无所知的高中三年，我想慢慢了解。同时，故地重游拍的照片对她来说也会更有意义。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0787.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0787.jpg" alt="" width="797" height="1200" />
 
 刚开始她还是不太习惯镜头，就只有背影拍得还挺好看。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0792.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0792.jpg" alt="" width="797" height="1200" />
 
 猜猜我们在干什么。。。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/IMG_20160913_234441.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/IMG_20160913_234441.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0806.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0806.jpg" alt="" width="1200" height="797" />
 
 逆光人像也不错哦。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0807.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0807.jpg" alt="" width="797" height="1200" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0818.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0818.jpg" alt="" width="797" height="1200" />
 
 大光圈加持的背景虚化很到位，一直都觉得她很适合走文艺气质路线的。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0810.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0810.jpg" alt="" width="797" height="1200" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0822.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0822.jpg" alt="" width="797" height="1200" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0831.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0831.jpg" alt="" width="1200" height="797" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0835.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0835.jpg" alt="" width="797" height="1200" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0838.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0838.jpg" alt="" width="797" height="1200" />
 
 最后两张在校门口处跟校车的合影也美美哒。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0843.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0843.jpg" alt="" width="797" height="1200" />
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0844.jpg" alt="" width="797" height="1200" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0844.jpg" alt="" width="797" height="1200" />
 
 想说的是，这两年我们也都有所改变。可我还是觉得，喜欢一个人，就会把对她好当作一种习惯，时间越久，这个习惯只会越难戒掉。
 
 晚上还是跟贝和洋一起吃的饭，彭洋炒的菜还是一如既往的好吃。今天本来贝是要上班的，开始说中秋再一起过，可是中午的时候泡面把贝的手给咬了，然后今天看到泡面一脸做错事的表情。晚一点的时候我们吃了蛋糕，许了个生日愿望，就这样，我22岁了。
 
-<img class="aligncenter size-medium" src="https://suyan.peng-ming.cn/nopainsnogains/DSC_0847.jpg" alt="" width="1200" height="797" />
+<img class="aligncenter size-medium" src="http://suyan.yezy.tech/nopainsnogains/DSC_0847.jpg" alt="" width="1200" height="797" />
 
 这段时间一直比较忙，忙着考研。看着身边一些人已经去了美国，一些人也差不多拿到了清北的保研资格，另一些人也拿到了腾讯阿里百度的offer，再看看自己，不想工作，也拿不到好学校的保研资格，就只好跟着万千人马走上考研的路。寻常人的目光终归仰视的多，俯视的少。望着望着，就望不见自己的初心了。让我们变得更加可悲的不是我们有多么地不起眼，而是我们内心的荒凉与贫瘠。就算再平凡，我们也始终是父母家人心中的一块璞玉。他们不要你的高人一等，只要你的平安喜乐。
 

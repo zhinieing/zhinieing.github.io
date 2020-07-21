@@ -17,15 +17,15 @@ tags:
 
 新中国成立后的1957年10月15日，长江上第一座公路铁路两用桥——长江大桥在武汉建成通车。从此，粤汉铁路与京汉铁路连成一体，更名为京广铁路。而作为重要站点的徐家棚站，在历史的进程中开始慢慢褪去颜色。
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/DSC_0006.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/DSC_0006.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/DSC_0007.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/DSC_0007.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/DSC_0009.jpg" width="1200" height="797" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/DSC_0009.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/IMG_1363.jpg" width="640" height="480" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/IMG_1363.jpg" width="640" height="480" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/13435320.webp.jpg" width="800" height="1200" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/13435320.webp.jpg" width="800" height="1200" />
 
 提起粤汉铁路，又让人想起同为民国初建，如今却已几近消失的咸安坊。
 
@@ -41,21 +41,21 @@ tags:
 
 以此纪念武汉·咸安坊
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/3529703.jpg" width="478" height="720" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/3529703.jpg" width="478" height="720" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/3529704.jpg" width="478" height="720" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/3529704.jpg" width="478" height="720" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/3529706.jpg" width="478" height="720" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/3529706.jpg" width="478" height="720" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/3529707.jpg" width="478" height="720" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/3529707.jpg" width="478" height="720" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/3529708.jpg" width="478" height="720" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/3529708.jpg" width="478" height="720" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/3529709.jpg" width="478" height="720" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/3529709.jpg" width="478" height="720" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/3529710.jpg" width="478" height="720" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/3529710.jpg" width="478" height="720" />
 
-<img class="aligncenter" src="https://suyan.peng-ming.cn/ourtime/3529711.jpg" width="478" height="720" />
+<img class="aligncenter" src="http://suyan.yezy.tech/ourtime/3529711.jpg" width="478" height="720" />
 
 时光于你我，真的不应该只是，我孑然一身地目送你独自离开，不再回来。
 

@@ -118,5 +118,5 @@ restful:
   tags: true               # 标签数据
   use_tag_slug: false      # Use slug for filename of tag data
   post: true               # 文章数据
-  cover_prefix: https://suyan.peng-ming.cn/
+  cover_prefix: http://suyan.yezy.tech/
   pages: false             # 额外的 Hexo 页面数据, 如 About
