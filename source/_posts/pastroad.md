@@ -1,7 +1,7 @@
 ---
 title: 過去的路
 date: 2014-08-09 23:32:36
-cover: cover/pastroad.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/pastroad.jpg
 categories:
 - travel
 tags:

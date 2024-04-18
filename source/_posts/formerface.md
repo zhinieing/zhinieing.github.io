@@ -2,7 +2,7 @@
 title: 從前的脸
 date: 2014-02-10 23:32:26
 hidden: true
-cover: cover/formerface.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/formerface.jpg
 categories:
 - daily
 tags:

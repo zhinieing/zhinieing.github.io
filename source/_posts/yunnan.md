@@ -1,7 +1,7 @@
 ---
 title: 來日縱使千千闕歌
 date: 2020-09-09 23:32:36
-cover: cover/yunnan.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/yunnan.jpg
 categories:
 - travel
 tags:

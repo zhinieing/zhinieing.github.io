@@ -1,7 +1,7 @@
 ---
 title: 路還很長，请别失望
 date: 2016-09-11 23:37:25
-cover: cover/nopainsnogains.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/nopainsnogains.jpg
 categories:
 - daily
 tags:

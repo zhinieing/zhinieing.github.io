@@ -1,7 +1,7 @@
 ---
 title: 粒粒万鄉
 date: 2016-04-05 23:36:22
-cover: cover/liliwanxiang.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/liliwanxiang.jpg
 categories:
 - daily
 tags:

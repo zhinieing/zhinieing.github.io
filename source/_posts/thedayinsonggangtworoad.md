@@ -1,7 +1,7 @@
 ---
 title: 宋崗二路的日子
 date: 2013-01-04 23:32:10
-cover: cover/thedayinsonggangtworoad.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/thedayinsonggangtworoad.jpg
 categories:
 - daily
 tags:

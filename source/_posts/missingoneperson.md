@@ -2,7 +2,7 @@
 title: 想，一個人
 date: 2012-12-21 23:32:00
 hidden: true
-cover: cover/missingoneperson.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/missingoneperson.jpg
 categories:
 - daily
 tags:

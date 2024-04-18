@@ -1,7 +1,7 @@
 ---
 title: 民國106年，初
 date: 2017-02-14 23:37:39
-cover: cover/taiwan.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/taiwan.jpg
 categories:
 - travel
 tags:

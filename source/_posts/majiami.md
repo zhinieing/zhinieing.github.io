@@ -1,7 +1,7 @@
 ---
 title: 瑪吉阿米
 date: 2016-08-09 23:37:09
-cover: cover/majiami.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/majiami.jpg
 categories:
 - daily
 tags:

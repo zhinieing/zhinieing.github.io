@@ -2,7 +2,7 @@
 title: 安靜
 date: 2013-06-16 23:32:18
 hidden: true
-cover: cover/quiet.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/quiet.jpg
 categories:
 - daily
 tags:

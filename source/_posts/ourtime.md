@@ -1,7 +1,7 @@
 ---
 title: 時光于你我
 date: 2014-10-14 23:35:00
-cover: cover/ourtime.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/ourtime.jpg
 categories:
 - daily
 tags:

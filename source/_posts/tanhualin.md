@@ -1,7 +1,7 @@
 ---
 title: 昙華林的光
 date: 2015-03-03 23:35:19
-cover: cover/tanhualin.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/tanhualin.jpg
 categories:
 - daily
 tags:

@@ -2,7 +2,7 @@
 title: 執蘖
 date: 2012-06-08 22:40:18
 hidden: true
-cover: cover/zhinie.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/zhinie.jpg
 categories:
 - daily
 tags:

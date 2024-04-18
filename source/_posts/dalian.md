@@ -1,7 +1,7 @@
 ---
 title: 印象大連
 date: 2016-07-20 23:36:58
-cover: cover/dalian.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/dalian.jpg
 categories:
 - travel
 tags:

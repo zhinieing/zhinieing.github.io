@@ -1,7 +1,7 @@
 ---
 title: 泡在北緯11度的周末里，不想上岸
 date: 2017-11-30 23:38:12
-cover: cover/boracay.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/boracay.jpg
 categories:
 - travel
 tags:

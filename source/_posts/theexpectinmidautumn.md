@@ -1,7 +1,7 @@
 ---
 title: 中秋之盼
 date: 2012-09-26 23:31:47
-cover: cover/theexpectinmidautumn.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/theexpectinmidautumn.jpg
 categories:
 - daily
 tags:

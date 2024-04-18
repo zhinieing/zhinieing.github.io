@@ -1,7 +1,7 @@
 ---
 title: 願你出走半生，歸來仍是废人
 date: 2017-06-20 23:37:53
-cover: cover/graduatetravel.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/graduatetravel.jpg
 categories:
 - travel
 tags:

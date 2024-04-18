@@ -1,7 +1,7 @@
 ---
 title: 北國
 date: 2015-11-20 23:36:04
-cover: cover/northcountry.jpg
+cover: https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/cover/northcountry.jpg
 categories:
 - travel
 tags:
