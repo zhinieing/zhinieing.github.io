@@ -1,6 +1,7 @@
 ---
 title: 安靜
 date: 2013-06-16 23:32:18
+hidden: true
 cover: cover/quiet.jpg
 categories:
 - daily

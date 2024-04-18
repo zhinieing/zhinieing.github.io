@@ -1,6 +1,7 @@
 ---
 title: 執蘖
 date: 2012-06-08 22:40:18
+hidden: true
 cover: cover/zhinie.jpg
 categories:
 - daily

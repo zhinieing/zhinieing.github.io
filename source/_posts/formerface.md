@@ -1,6 +1,7 @@
 ---
 title: 從前的脸
 date: 2014-02-10 23:32:26
+hidden: true
 cover: cover/formerface.jpg
 categories:
 - daily

@@ -73,68 +73,70 @@ tags:
 
 先是去403艺术中心取票，又在那拍了几张照。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0235.jpg" width="1200" height="797" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0235.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0242.jpg" width="1200" height="797" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0242.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0245.jpg" width="1200" height="797" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0245.jpg" width="1200" height="797" />
 
 到了草莓音乐节那一天，老规矩，必须下雨。
 
 等到了入场的时候，陈粒已经开始唱了。我看着满地泥浆，有点傻眼，然后只能把鞋和袜子脱下系在包上，就光着脚，朝着一片妹子口中呼喊着的老公的歌声跑去。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0277.jpg" width="1200" height="797" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0277.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0278.jpg" width="1200" height="797" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0278.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0287.jpg" width="1200" height="797" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0287.jpg" width="1200" height="797" />
 
 最感动人心的，还是众人合唱奇妙能力歌，简单却又质朴的歌词，被一句句不同音色地娓娓道来。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0275.jpg" width="1200" height="797" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0275.jpg" width="1200" height="797" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/IMG_20160426_190823.jpg" width="1200" height="1200" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/IMG_20160426_190823.jpg" width="1200" height="1200" />
 
 但泥浆打滚，还是惊天地泣鬼神。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/mmexport1468764242738.jpg" width="1200" height="800" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/mmexport1468764242738.jpg" width="1200" height="800" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/mmexport1468764172804.jpg" width="1200" height="800" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/mmexport1468764172804.jpg" width="1200" height="800" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/mmexport1468764194209.jpg" width="1200" height="800" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/mmexport1468764194209.jpg" width="1200" height="800" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/mmexport1468764268141.jpg" width="1200" height="800" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/mmexport1468764268141.jpg" width="1200" height="800" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/mmexport1468764236355.jpg" width="800" height="1200" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/mmexport1468764236355.jpg" width="800" height="1200" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/mmexport1468764303514.jpg" width="800" height="1200" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/mmexport1468764303514.jpg" width="800" height="1200" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/mmexport1468764184381.jpg" width="1200" height="800" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/mmexport1468764184381.jpg" width="1200" height="800" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/mmexport1468764320730.jpg" width="1200" height="800" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/mmexport1468764320730.jpg" width="1200" height="800" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/IMG_20160426_191700.jpg" width="1200" height="1200" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/IMG_20160426_191700.jpg" width="1200" height="1200" />
 
 傍晚的时候，挤在喧闹的人群中间等了接近半个小时，痛仰才开唱。经典的公路之歌，为你唱首歌，扎西德勒，以及非常非常喜欢的西湖。唱到嗨处，一群人开始搭火车，人们把双手搭在前面一个人的背上，跟着前面的人一样在泥潭里学着兔子跳。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0290.jpg" width="1200" height="797" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0290.jpg" width="1200" height="797" />
 
-<video class="aligncenter" src="http://lvideo.dafork.com/llugxspCCS8q--jQGDLGa9-jIUJH" preload="metadata" controls="controls" width="100%" height="100%">
-</video>
+<!-- <video class="aligncenter" src="http://lvideo.dafork.com/llugxspCCS8q--jQGDLGa9-jIUJH" preload="metadata" controls="controls" width="100%" height="100%">
+</video> -->
+
+<div style="padding-top: 56.25%;position: relative;"><iframe src="//player.bilibili.com/player.html?bvid=BV1jw4m1273J&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute;height: 100%;width: 100%;top: 0;left: 0;"></iframe></div>
 
 友情出境的珠珠，记得我们在水果湖菜市场吐槽过的菜价，她做的饭很好吃，总习惯在半夜来一碗麻辣烫。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0298.jpg" width="797" height="1200" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0298.jpg" width="797" height="1200" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/DSC_0319.jpg" width="797" height="1200" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/DSC_0319.jpg" width="797" height="1200" />
 
 后来我们光着脚一直走到体育馆地铁站的卫生间去洗脚，弄得洗脸池里一片狼藉。这也算是一种既特别而难忘，又不可多得的体验。
 
 再后来，我在电视上看到了北京草莓音乐节马頔和宋胖子的直播，也算了了武汉草莓没听到南山南和傲寒的遗憾。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/IMG_20160430_154439R.jpg" width="1200" height="675" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/IMG_20160430_154439R.jpg" width="1200" height="675" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/liliwanxiang/IMG_20160430_154920R.jpg" width="1200" height="675" /><!--more-->
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/liliwanxiang/IMG_20160430_154920R.jpg" width="1200" height="675" /><!--more-->
 
 <audio src="http://music.163.com/song/media/outer/url?id=29431066.mp3" poster="http://p2.music.126.net/VuJFMbXzpAProbJPoXLv7g==/7721870161993398.jpg?param=130y130" name="奇妙能力歌" author="陈粒" loop autoplay>
 </audio>

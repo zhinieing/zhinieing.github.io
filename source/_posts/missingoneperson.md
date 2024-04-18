@@ -1,6 +1,7 @@
 ---
 title: 想，一個人
 date: 2012-12-21 23:32:00
+hidden: true
 cover: cover/missingoneperson.jpg
 categories:
 - daily
@@ -35,5 +36,5 @@ tags:
 
 最后的最后，我梦里的世界坍塌了，而那份想念，也终于跋山涉水，走进了我的心底。
 
-<audio src="http://suyan.yezy.tech/music/aohan.mp3" poster="https://y.gtimg.cn/music/photo_new/T002R300x300M0000045GzEt0I9c3x_1.jpg" name="傲寒" author="马頔" loop autoplay>
+<audio src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/music/aohan.mp3" poster="https://y.gtimg.cn/music/photo_new/T002R300x300M0000045GzEt0I9c3x_1.jpg" name="傲寒" author="马頔" loop autoplay>
 </audio>

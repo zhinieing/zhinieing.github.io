@@ -13,21 +13,21 @@ tags:
 
 比较喜欢罗克慢递店长说的一句话。其实浪漫这种想法是每一个人心里都有的，每一个客人走到昙华林来，他心里非常美好的一面觉得跟昙华林会有一些共鸣，这些很文艺的年轻人，带着一个很文艺的心，到昙华林这边来，他们由客人变成主人，所以昙华林的浪漫就是吸引这些年轻人过来的原因。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/tanhualin/DSC_8256.jpg" width="3264" height="4928" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/tanhualin/DSC_8256.jpg" width="3264" height="4928" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/tanhualin/DSC_8520.jpg" width="3264" height="4928" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/tanhualin/DSC_8520.jpg" width="3264" height="4928" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/tanhualin/DSC_0112.jpg" width="4288" height="2848" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/tanhualin/DSC_0112.jpg" width="4288" height="2848" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/tanhualin/DSC_0092.jpg" width="2848" height="4288" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/tanhualin/DSC_0092.jpg" width="2848" height="4288" />
 
 另外湖北中医药大学昙华林校区里有座以前文化大学文学院的老建筑，彩色玻璃的窗户，两层中间有天井的小木屋。
 
-<img class="aligncenter" src="http://suyan.yezy.tech/tanhualin/7642933.webp.jpg" width="800" height="1200" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/tanhualin/7642933.webp.jpg" width="800" height="1200" />
 
-<img class="aligncenter" src="http://suyan.yezy.tech/tanhualin/7642938.webp.jpg" width="800" height="1200" />
+<img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/tanhualin/7642938.webp.jpg" width="800" height="1200" />
 
 最后，倾情推荐，武大小默笙吴倩在2013年主演的一部叫做昙华林的微电影。
 
-<audio src="http://music.163.com/song/media/outer/url?id=406475394.mp3" poster="http://p1.music.126.net/UIE3T_txKzd6e8PORxmpCQ==/109951163412959613.jpg?param=130y130" name="Wonderful U" author="AGA" loop autoplay>
+<audio src="http://music.163.com/song/media/outer/url?id=1435177840.mp3" poster="http://p1.music.126.net/UIE3T_txKzd6e8PORxmpCQ==/109951163412959613.jpg?param=130y130" name="Wonderful U" author="AGA" loop autoplay>
 </audio>
