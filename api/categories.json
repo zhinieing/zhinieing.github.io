@@ -1,1 +1,1 @@
-[{"name":"travel","path":"api/categories/travel.json","count":9},{"name":"daily","path":"api/categories/daily.json","count":9}]
+[{"name":"travel","path":"api/categories/travel.json","count":9,"cover":"https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/categories/travel.jpg"},{"name":"daily","path":"api/categories/daily.json","count":9,"cover":"https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/categories/daily.jpg"}]
