@@ -127,7 +127,7 @@ site_state: true
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub: https://github.com/zhinieing || github
-  E-Mail: mailto:pm799759861@@outlook.com || envelope
+  E-Mail: mailto:mingpeng@gmail.com || envelope
   Instagram: https://instagram.com/zhinieing || instagram
   Wechat: /images/wechat.png || wechat
   #Google: https://plus.google.com/yourname || google
@@ -144,12 +144,12 @@ social_icons:
   transition: false
 
 # Blog rolls
-links_icon: link
-links_title: Links
-links_layout: block
+# links_icon: link
+# links_title: Links
+# links_layout: block
 #links_layout: inline
-links:
-  ming peng: https://mingpeng.me
+# links:
+#   ming peng: https://mingpeng.me
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif

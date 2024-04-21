@@ -6,7 +6,6 @@ categories:
 - travel
 tags:
 - 台湾
-- 渡渡鸟
 ---
 之前一直有一个心愿，在大学毕业之前到宝岛台湾玩一趟。这次借着考雅思的机会，得偿所愿。
 
@@ -184,15 +183,6 @@ tags:
 走之前的最后一晚，在台北去了猫空缆车，赶着快下班的点去的，没有乘客，可能我就是最后一个人了。看了台北一览无余的夜景，走了也就没有什么遗憾了。接着去了最繁华的忠孝东路，在诚品敦南店看到了五月天的自传，一直呆到转点，已经到了第二天才舍得离开。
 
 <img class="aligncenter size-medium" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/taiwan/taiwan-76.jpg" width="1200" height="675" />
-
-今天是情人节，记得在十分给渡渡鸟的明信片是这样写的。
-<blockquote><strong>其實很想我們能夠一直這樣走下去</strong>
-<strong>一起看臺北101的跨年煙花</strong>
-<strong>一起看臺中高美濕地的日落</strong>
-<strong>一起在高雄西子灣吹着海風</strong>
-<strong>一起在花蓮的海邊騎車溜達</strong>
-<strong>一起在平溪許願放一次天燈</strong>
-<strong>沒有你的十分並不美好</strong></blockquote>
 
 <audio src="http://music.163.com/song/media/outer/url?id=1430245045.mp3" poster="http://p2.music.126.net/RdC2b8q7bKzIiWCbMWBaTg==/109951164947895542.jpg?param=130y130" name="Someday or One Day" author="孙盛希" loop autoplay>
 </audio>

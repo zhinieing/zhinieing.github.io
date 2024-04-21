@@ -148,7 +148,7 @@ tags:
 
 <img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/dalian/IMG_20160705_231736.jpg" width="1193" height="2121" />
 
-之所以会再次去渔人码头，是上次去的时候猫的天空之城在装修，这次去给渡渡鸟寄了张明信片，买了点小礼品。
+之所以会再次去渔人码头，是上次去的时候猫的天空之城在装修，这次去寄了张明信片，买了点小礼品。
 
 <img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/dalian/IMG_20160719_173452.jpg" width="1200" height="797" />
 
@@ -170,5 +170,5 @@ tags:
 
 <img class="aligncenter" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/dalian/IMG_20160719_173754.jpg" width="1200" height="797" />
 
-<audio src="http://music.163.com/song/media/outer/url?id=477939.mp3" poster="http://p2.music.126.net/OpgpNNPKznDDMxoBqVJy-Q==/2464005557906815.jpg?param=130y130" name="ヨスガノソラメインテ" author="Bruno Wen-li" loop autoplay>
+<audio src="http://music.163.com/song/media/outer/url?id=477939.mp3" poster="http://p2.music.126.net/OpgpNNPKznDDMxoBqVJy-Q==/2464005557906815.jpg?param=130y130" name="记忆" author="Bruno" loop autoplay>
 </audio>

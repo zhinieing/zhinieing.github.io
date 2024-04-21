@@ -64,15 +64,11 @@ tags:
 
 <img class="aligncenter size-medium" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/nopainsnogains/DSC_0806.jpg" alt="" width="1200" height="797" />
 
-逆光人像也不错哦。
-
-<img class="aligncenter size-medium" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/nopainsnogains/DSC_0807.jpg" alt="" width="797" height="1200" />
-
-<img class="aligncenter size-medium" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/nopainsnogains/DSC_0818.jpg" alt="" width="797" height="1200" />
-
 大光圈加持的背景虚化很到位，一直都觉得她很适合走文艺气质路线的。
 
 <img class="aligncenter size-medium" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/nopainsnogains/DSC_0810.jpg" alt="" width="797" height="1200" />
+
+<img class="aligncenter size-medium" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/nopainsnogains/DSC_0818.jpg" alt="" width="797" height="1200" />
 
 <img class="aligncenter size-medium" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/nopainsnogains/DSC_0822.jpg" alt="" width="797" height="1200" />
 
@@ -95,20 +91,6 @@ tags:
 <img class="aligncenter size-medium" src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/nopainsnogains/DSC_0847.jpg" alt="" width="1200" height="797" />
 
 这段时间一直比较忙，忙着考研。看着身边一些人已经去了美国，一些人也差不多拿到了清北的保研资格，另一些人也拿到了腾讯阿里百度的offer，再看看自己，不想工作，也拿不到好学校的保研资格，就只好跟着万千人马走上考研的路。寻常人的目光终归仰视的多，俯视的少。望着望着，就望不见自己的初心了。让我们变得更加可悲的不是我们有多么地不起眼，而是我们内心的荒凉与贫瘠。就算再平凡，我们也始终是父母家人心中的一块璞玉。他们不要你的高人一等，只要你的平安喜乐。
-
-其实自己想要的不多，一个不好不坏有自己喜欢的人的未来，就心满意足。就像之前在大连寄给渡渡鸟的明信片上写的那样。
-<blockquote><strong>我希望，有那么个人</strong>
-<strong>22岁相恋</strong>
-<strong>25岁结婚</strong>
-<strong>27岁一个生命诞生</strong>
-<strong>28岁孩子叫我们爸爸妈妈</strong>
-<strong>走过七年之痒</strong>
-<strong>40岁激情褪去，我们仍然相爱</strong>
-<strong>50岁孩子有自己的爱情</strong>
-<strong>60岁我们一起旅行</strong>
-<strong>70岁我们儿孙绕膝</strong>
-<strong>80岁不再恐惧死亡</strong>
-<strong>因为，彼此相依</strong></blockquote>
 
 路还很长，只想对未来的自己说，请别失望。
 

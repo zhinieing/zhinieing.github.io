@@ -147,5 +147,5 @@ tags:
 
 6月19日在晚上12点快到的时候终于赶到了寝室，毕业旅行就此结束。
 
-<audio src="https://jsd.cdn.zzko.cn/gh/zhinieing/picx-images-hosting@master/music/Rec_001.mp3" poster="http://p1.music.126.net/ZssgfaO-g7uvnI-7EEal9A==/109951163447793114.jpg?param=130y130" name="广岛之恋" author="刘钏" loop autoplay>
+<audio src="http://music.163.com/song/media/outer/url?id=25638858.mp3" poster="http://p1.music.126.net/ZssgfaO-g7uvnI-7EEal9A==/109951163447793114.jpg?param=130y130" name="广岛之恋" author="莫文蔚" loop autoplay>
 </audio>
